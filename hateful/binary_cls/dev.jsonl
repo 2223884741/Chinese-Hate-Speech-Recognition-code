@@ -1,0 +1,941 @@
+{"id": 3931, "quad_index": 0, "target": "你们", "argument": "百越汉化", "label": "Region", "binary_label": 1}
+{"id": 266, "quad_index": 0, "target": "eg", "argument": "单纯歧视eg", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 1091, "quad_index": 0, "target": "我", "argument": "没有老攻🌚🌚🌚", "label": "LGBTQ", "binary_label": 1}
+{"id": 5020, "quad_index": 0, "target": "黑蛆", "argument": "实施种族灭绝！！！", "label": "Racism", "binary_label": 1}
+{"id": 7244, "quad_index": 0, "target": "爱丁堡", "argument": "不比井盖、山越猴、京巴、九头鸟、东百太君、白完、胡建、陕蛋蛋、响马听起来洋气？", "label": "Region", "binary_label": 1}
+{"id": 3985, "quad_index": 1, "target": "整个国家", "argument": "会不可避免黑化下去", "label": "Racism", "binary_label": 1}
+{"id": 6863, "quad_index": 1, "target": "南方人", "argument": "蛮子", "label": "Region", "binary_label": 1}
+{"id": 6229, "quad_index": 0, "target": "媚黑的人", "argument": "歧视", "label": "others", "binary_label": 1}
+{"id": 392, "quad_index": 0, "target": "科比詹姆斯", "argument": "爱谁谁", "label": "non-hate", "binary_label": 0}
+{"id": 30, "quad_index": 1, "target": "他们", "argument": "假装上海人黑安徽人", "label": "Region", "binary_label": 1}
+{"id": 6127, "quad_index": 0, "target": "地球", "argument": "一个赤道略鼓两极稍扁的不规则的球体", "label": "non-hate", "binary_label": 0}
+{"id": 319, "quad_index": 0, "target": "这些女人", "argument": "真恶心", "label": "Sexism", "binary_label": 1}
+{"id": 3496, "quad_index": 0, "target": "这种人", "argument": "定时炸弹", "label": "others", "binary_label": 1}
+{"id": 668, "quad_index": 0, "target": "黑人", "argument": "但大家都表示很害怕", "label": "Racism", "binary_label": 1}
+{"id": 7103, "quad_index": 0, "target": "河南", "argument": "偷抢啥的", "label": "Region", "binary_label": 1}
+{"id": 5768, "quad_index": 1, "target": "帝国主义", "argument": "做的非常成功", "label": "others", "binary_label": 1}
+{"id": 1634, "quad_index": 2, "target": "努力大姐", "argument": "少一点努力大姐这种默的舔🐶xing奴", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 436, "quad_index": 0, "target": "山东男生", "argument": "真的帅", "label": "non-hate", "binary_label": 0}
+{"id": 7933, "quad_index": 0, "target": "这帮孝子贤孙", "argument": "冲爆", "label": "non-hate", "binary_label": 0}
+{"id": 7382, "quad_index": 0, "target": "三观匹配", "argument": "比其他的都重要", "label": "non-hate", "binary_label": 0}
+{"id": 1023, "quad_index": 0, "target": "黑人", "argument": "p站上有些黑人细成啥样了", "label": "Racism", "binary_label": 1}
+{"id": 1374, "quad_index": 0, "target": "你", "argument": "可以不给", "label": "non-hate", "binary_label": 0}
+{"id": 7342, "quad_index": 1, "target": "非洲", "argument": "消费水平低", "label": "non-hate", "binary_label": 0}
+{"id": 1899, "quad_index": 0, "target": "它", "argument": "怎么不动了？！😭", "label": "non-hate", "binary_label": 0}
+{"id": 2351, "quad_index": 0, "target": "光棍", "argument": "通过歧视光棍来试图提高结婚率了？", "label": "Sexism", "binary_label": 1}
+{"id": 229, "quad_index": 0, "target": "度度", "argument": "又在刷屏啊", "label": "non-hate", "binary_label": 0}
+{"id": 5093, "quad_index": 0, "target": "江西", "argument": "快进到江西起义", "label": "non-hate", "binary_label": 0}
+{"id": 3217, "quad_index": 0, "target": "女人", "argument": "换了本仙女就不可能找到更好的了", "label": "Sexism", "binary_label": 1}
+{"id": 6637, "quad_index": 0, "target": "白皮黑皮", "argument": "屏蔽", "label": "Racism", "binary_label": 1}
+{"id": 172, "quad_index": 1, "target": "跟风瞎yy别人的人", "argument": "恶心", "label": "LGBTQ", "binary_label": 1}
+{"id": 4801, "quad_index": 0, "target": "河南", "argument": "当年不遵守计生政策", "label": "Region", "binary_label": 1}
+{"id": 3473, "quad_index": 0, "target": "女孩子", "argument": "荡妇", "label": "Sexism", "binary_label": 1}
+{"id": 7431, "quad_index": 0, "target": "txl", "argument": "不正常", "label": "LGBTQ", "binary_label": 1}
+{"id": 2388, "quad_index": 0, "target": "同类", "argument": "遇见同类", "label": "non-hate", "binary_label": 0}
+{"id": 7381, "quad_index": 0, "target": "看抖音的人", "argument": "脑子里都是什么成分", "label": "others", "binary_label": 1}
+{"id": 1168, "quad_index": 0, "target": "非洲黑人", "argument": "别在同情什么非洲黑人了", "label": "Racism", "binary_label": 1}
+{"id": 2897, "quad_index": 0, "target": "女拳", "argument": "该死", "label": "Sexism", "binary_label": 1}
+{"id": 4496, "quad_index": 0, "target": "我", "argument": "在bilibili吧发了帖子直接被秒删", "label": "non-hate", "binary_label": 0}
+{"id": 2353, "quad_index": 0, "target": "这警察", "argument": "战斗力不行", "label": "non-hate", "binary_label": 0}
+{"id": 7508, "quad_index": 0, "target": "NULL", "argument": "在中国就是重婚罪", "label": "non-hate", "binary_label": 0}
+{"id": 344, "quad_index": 0, "target": "外来物种", "argument": "差别对待外来物种低人一等", "label": "Racism", "binary_label": 1}
+{"id": 6210, "quad_index": 0, "target": "她们", "argument": "刀谁去爆金币", "label": "Sexism", "binary_label": 1}
+{"id": 7198, "quad_index": 0, "target": "评论区里面的三观", "argument": "叹为观止", "label": "non-hate", "binary_label": 0}
+{"id": 4668, "quad_index": 0, "target": "丁真", "argument": "带领回族成为蒙古族", "label": "others", "binary_label": 1}
+{"id": 7165, "quad_index": 1, "target": "河南朋友", "argument": "比地温好多了😅", "label": "Region", "binary_label": 1}
+{"id": 7494, "quad_index": 0, "target": "东北", "argument": "这么多人不喜欢", "label": "Region", "binary_label": 1}
+{"id": 5037, "quad_index": 1, "target": "女权", "argument": "攻击辱骂男权反婚", "label": "Sexism", "binary_label": 1}
+{"id": 5389, "quad_index": 0, "target": "男权吧", "argument": "被女性占据", "label": "Sexism", "binary_label": 1}
+{"id": 2832, "quad_index": 0, "target": "你家那片", "argument": "还有井盖吗", "label": "Region", "binary_label": 1}
+{"id": 1222, "quad_index": 0, "target": "她们", "argument": "去非洲生活难道不比在中国更好？", "label": "Region, Sexism, Racism", "binary_label": 1}
+{"id": 3217, "quad_index": 1, "target": "男人", "argument": "这是编出来给?男心理安慰，好让?男去舔去接盘的", "label": "Sexism", "binary_label": 1}
+{"id": 4711, "quad_index": 0, "target": "这帮孩子的审美", "argument": "被扭曲了", "label": "others", "binary_label": 1}
+{"id": 486, "quad_index": 1, "target": "河南人", "argument": "现在招工还有不要河南人的", "label": "Region", "binary_label": 1}
+{"id": 6301, "quad_index": 1, "target": "非洲人", "argument": "这病得病率", "label": "Racism, others", "binary_label": 1}
+{"id": 2270, "quad_index": 0, "target": "外国人", "argument": "非常羡慕中国女性", "label": "Sexism", "binary_label": 1}
+{"id": 6560, "quad_index": 0, "target": "牛奶和巧克力", "argument": "好吃", "label": "non-hate", "binary_label": 0}
+{"id": 7267, "quad_index": 0, "target": "浙江", "argument": "我猜是", "label": "non-hate", "binary_label": 0}
+{"id": 3119, "quad_index": 0, "target": "中国人", "argument": "是不是人有问题", "label": "Racism", "binary_label": 1}
+{"id": 6965, "quad_index": 0, "target": "她", "argument": "马上拿起之前预定好的车票回到房间里收拾好东西赶紧跑路", "label": "Sexism", "binary_label": 1}
+{"id": 1086, "quad_index": 0, "target": "你", "argument": "希望你能为本吧带来更多正能量", "label": "non-hate", "binary_label": 0}
+{"id": 325, "quad_index": 0, "target": "小仙女的后宫", "argument": "可以贷款帮她完成任务诶", "label": "Sexism", "binary_label": 1}
+{"id": 5752, "quad_index": 0, "target": "我国注册球员", "argument": "远远少于其他国家", "label": "non-hate", "binary_label": 0}
+{"id": 3371, "quad_index": 0, "target": "艾滋病", "argument": "泛滥是有原因的", "label": "non-hate", "binary_label": 0}
+{"id": 7786, "quad_index": 0, "target": "你", "argument": "人尽皆知的接盘侠", "label": "non-hate", "binary_label": 0}
+{"id": 4761, "quad_index": 0, "target": "她们", "argument": "也就知道几个娘炮了", "label": "Sexism", "binary_label": 1}
+{"id": 6356, "quad_index": 1, "target": "媚黑女", "argument": "有一定“推动力量”", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 6377, "quad_index": 0, "target": "黑人", "argument": "这幅德行", "label": "Racism", "binary_label": 1}
+{"id": 5171, "quad_index": 0, "target": "你", "argument": "就很感谢你了🤣🤣", "label": "non-hate", "binary_label": 0}
+{"id": 1045, "quad_index": 0, "target": "黑人", "argument": "正常人不会嫁给黑人", "label": "Racism", "binary_label": 1}
+{"id": 3105, "quad_index": 0, "target": "龟男", "argument": "逆天", "label": "Sexism", "binary_label": 1}
+{"id": 2294, "quad_index": 0, "target": "黑女", "argument": "稍微有点身份地位的，不可能跟黑女在一块儿。", "label": "Sexism, Racism, Region", "binary_label": 1}
+{"id": 2992, "quad_index": 0, "target": "同性恋", "argument": "点赞", "label": "non-hate", "binary_label": 0}
+{"id": 6109, "quad_index": 0, "target": "这饭", "argument": "味如嚼蜡", "label": "non-hate", "binary_label": 0}
+{"id": 4068, "quad_index": 1, "target": "三非外国人", "argument": "让中国移动治安变的很糟糕", "label": "Racism", "binary_label": 1}
+{"id": 3024, "quad_index": 1, "target": "每一个跟黑人上过床的女人", "argument": "都得艾滋了", "label": "Sexism, Racism, others", "binary_label": 1}
+{"id": 284, "quad_index": 0, "target": "安徽南边", "argument": "彩礼还行吧", "label": "non-hate", "binary_label": 0}
+{"id": 4831, "quad_index": 0, "target": "楼主", "argument": "能不能把聊天记录截全", "label": "non-hate", "binary_label": 0}
+{"id": 3214, "quad_index": 0, "target": "女权", "argument": "你发的这个文章和世界女权没有任何关系", "label": "non-hate", "binary_label": 0}
+{"id": 1552, "quad_index": 0, "target": "同恋", "argument": "本身就是繁殖恋所以才骗婚", "label": "LGBTQ", "binary_label": 1}
+{"id": 4186, "quad_index": 0, "target": "黑色的", "argument": "垃圾材料", "label": "Racism", "binary_label": 1}
+{"id": 1021, "quad_index": 0, "target": "白左笑话吧", "argument": "是可以联合的", "label": "Racism, others", "binary_label": 1}
+{"id": 5375, "quad_index": 0, "target": "女拳", "argument": "已经炸了", "label": "Sexism", "binary_label": 1}
+{"id": 6154, "quad_index": 0, "target": "黒杂", "argument": "又是个黑杂", "label": "Racism", "binary_label": 1}
+{"id": 185, "quad_index": 0, "target": "媚黑女", "argument": "啥玩意儿", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 5212, "quad_index": 0, "target": "女人", "argument": "开始反感女拳", "label": "Sexism", "binary_label": 1}
+{"id": 5245, "quad_index": 0, "target": "这籹的", "argument": "打个手游还打出优越了", "label": "Sexism", "binary_label": 1}
+{"id": 4653, "quad_index": 0, "target": "有的人", "argument": "喜欢白种人或者黑人", "label": "non-hate", "binary_label": 0}
+{"id": 4503, "quad_index": 0, "target": "他", "argument": "他从此对你毕恭毕敬", "label": "others", "binary_label": 1}
+{"id": 50, "quad_index": 0, "target": "中国女人", "argument": "找黑人男人，她们不要一分彩礼，还没结婚也可以生孩子，把黑人照顾的那叫一个舒服，外国友人都交口称赞👍", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 3451, "quad_index": 1, "target": "东北", "argument": "有超市吗？", "label": "Region", "binary_label": 1}
+{"id": 2596, "quad_index": 0, "target": "eg", "argument": "很好的解释了为什么会出现那么多eg的原因", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 6036, "quad_index": 0, "target": "甘肃人", "argument": "表示没话说", "label": "non-hate", "binary_label": 0}
+{"id": 3013, "quad_index": 0, "target": "这女人", "argument": "能活到现在也是个奇迹！", "label": "Sexism", "binary_label": 1}
+{"id": 5736, "quad_index": 0, "target": "越南", "argument": "什么越南新闻", "label": "non-hate", "binary_label": 0}
+{"id": 2914, "quad_index": 1, "target": "txl", "argument": "必须清除干净", "label": "LGBTQ", "binary_label": 1}
+{"id": 1333, "quad_index": 0, "target": "中国内部的地域歧视", "argument": "一切责任在美方😆😆😆", "label": "Region", "binary_label": 1}
+{"id": 1007, "quad_index": 0, "target": "女性", "argument": "现在想平权就不能再把女性当做一个弱势群体了", "label": "non-hate", "binary_label": 0}
+{"id": 1865, "quad_index": 1, "target": "你同学", "argument": "可能是南京高淳的", "label": "non-hate", "binary_label": 0}
+{"id": 5296, "quad_index": 0, "target": "法国", "argument": "遍地都是hei鬼", "label": "Region, Racism", "binary_label": 1}
+{"id": 732, "quad_index": 0, "target": "女人", "argument": "一切罪恶的源头", "label": "Sexism", "binary_label": 1}
+{"id": 3120, "quad_index": 0, "target": "钕人", "argument": "只剩下肉了", "label": "Sexism", "binary_label": 1}
+{"id": 4068, "quad_index": 3, "target": "老子", "argument": "就是种族主义者", "label": "Racism", "binary_label": 1}
+{"id": 3076, "quad_index": 0, "target": "黄精灵", "argument": "有种去找格格巫啊", "label": "Racism", "binary_label": 1}
+{"id": 6497, "quad_index": 1, "target": "上海", "argument": "最歧视安徽", "label": "Region", "binary_label": 1}
+{"id": 4407, "quad_index": 0, "target": "在东南亚那些10几岁的嫩妹", "argument": "根本就花不多少钱随便玩", "label": "Region, Sexism", "binary_label": 1}
+{"id": 6264, "quad_index": 0, "target": "答主", "argument": "肯定瞎说的", "label": "non-hate", "binary_label": 0}
+{"id": 5190, "quad_index": 0, "target": "今年冬天", "argument": "会不会没暖气哈？！🤭", "label": "non-hate", "binary_label": 0}
+{"id": 2200, "quad_index": 0, "target": "她", "argument": "直接去银行投诉她", "label": "Sexism", "binary_label": 1}
+{"id": 494, "quad_index": 0, "target": "江苏", "argument": "这挨屠的地方就该全部死光", "label": "Region", "binary_label": 1}
+{"id": 7124, "quad_index": 0, "target": "老师", "argument": "对外地学生明显的歧视", "label": "Region", "binary_label": 1}
+{"id": 7226, "quad_index": 0, "target": "人的意识", "argument": "现在的大脑产生的", "label": "non-hate", "binary_label": 0}
+{"id": 884, "quad_index": 0, "target": "他们", "argument": "敢骑在我们头上？正因我们没有搞殖民、搞侵略、搞屠杀所以，别做好人。😆", "label": "Racism", "binary_label": 1}
+{"id": 717, "quad_index": 0, "target": "你", "argument": "微博里的普信女还是烂裤裆", "label": "Sexism", "binary_label": 1}
+{"id": 7948, "quad_index": 0, "target": "崇拜球星，特别是那些品质极差的", "argument": "脑壳有包", "label": "non-hate", "binary_label": 0}
+{"id": 1024, "quad_index": 0, "target": "女权", "argument": "这特么才叫女权", "label": "non-hate", "binary_label": 0}
+{"id": 7080, "quad_index": 0, "target": "阿娜", "argument": "长得像卖瓜的水果摊老板似的", "label": "Sexism", "binary_label": 1}
+{"id": 698, "quad_index": 0, "target": "希拉里克林顿", "argument": "结婚了女的姓都没了😅😅😅", "label": "Sexism", "binary_label": 1}
+{"id": 811, "quad_index": 0, "target": "拳师", "argument": "去刚果贫民区要求200万彩礼得了", "label": "Region, Sexism", "binary_label": 1}
+{"id": 2421, "quad_index": 0, "target": "姐妹们", "argument": "有他联系方式吗", "label": "non-hate", "binary_label": 0}
+{"id": 7911, "quad_index": 0, "target": "地域黑", "argument": "蠢或者坏！！", "label": "non-hate", "binary_label": 0}
+{"id": 6870, "quad_index": 0, "target": "黑人", "argument": "又丑又怪", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 7821, "quad_index": 0, "target": "本可", "argument": "坚决的饭桶斗士", "label": "LGBTQ", "binary_label": 1}
+{"id": 7710, "quad_index": 0, "target": "吧务和几个等级高的", "argument": "蛇鼠一窝", "label": "non-hate", "binary_label": 0}
+{"id": 6780, "quad_index": 0, "target": "中国女人", "argument": "跪舔", "label": "Sexism, Region", "binary_label": 1}
+{"id": 6009, "quad_index": 0, "target": "地域歧视", "argument": "被注定遭人唾弃", "label": "non-hate", "binary_label": 0}
+{"id": 4349, "quad_index": 0, "target": "女人", "argument": "弄丢了", "label": "non-hate", "binary_label": 0}
+{"id": 4741, "quad_index": 0, "target": "娶黑女的", "argument": "生下的小孩也是小黑孩🤣", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 419, "quad_index": 0, "target": "黑人", "argument": "自己放弃了自己", "label": "Racism", "binary_label": 1}
+{"id": 3317, "quad_index": 0, "target": "欧美反智研究", "argument": "跟当年非罪化如出一辙", "label": "Region", "binary_label": 1}
+{"id": 700, "quad_index": 0, "target": "男同", "argument": "对女性有仇视倾向", "label": "LGBTQ", "binary_label": 1}
+{"id": 1107, "quad_index": 0, "target": "我", "argument": "在国外都不用翻墙🐶", "label": "non-hate", "binary_label": 0}
+{"id": 7090, "quad_index": 0, "target": "性取向都扭曲了的人", "argument": "怎么会觉得恶心呢😓", "label": "LGBTQ", "binary_label": 1}
+{"id": 2520, "quad_index": 0, "target": "非洲", "argument": "艾滋病流行率如何？", "label": "Region, Racism", "binary_label": 1}
+{"id": 2120, "quad_index": 1, "target": "异性恋", "argument": "得爱滋的比例高", "label": "non-hate", "binary_label": 0}
+{"id": 4750, "quad_index": 0, "target": "和黑搞的女人", "argument": "不接受", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 3860, "quad_index": 0, "target": "天津人", "argument": "心碎", "label": "non-hate", "binary_label": 0}
+{"id": 6268, "quad_index": 0, "target": "河南", "argument": "全国小偷各地集团的汇聚中心", "label": "non-hate", "binary_label": 0}
+{"id": 1572, "quad_index": 0, "target": "上海", "argument": "对上海再无好感", "label": "Region", "binary_label": 1}
+{"id": 636, "quad_index": 0, "target": "你", "argument": "把埃及科普特人放到哪去了？", "label": "non-hate", "binary_label": 0}
+{"id": 20, "quad_index": 2, "target": "中国女人", "argument": "不太贞洁了", "label": "Sexism, Region", "binary_label": 1}
+{"id": 7966, "quad_index": 0, "target": "你们思政指导", "argument": "吃干饭的", "label": "non-hate", "binary_label": 0}
+{"id": 2143, "quad_index": 0, "target": "有人", "argument": "不是单身进吧会怎么样", "label": "non-hate", "binary_label": 0}
+{"id": 488, "quad_index": 0, "target": "你", "argument": "居然只是不能接受被黑人睡过", "label": "Racism", "binary_label": 1}
+{"id": 5781, "quad_index": 0, "target": "撑同的", "argument": "狂搞人体有害细菌最多、最为肮脏的排泄器官", "label": "LGBTQ", "binary_label": 1}
+{"id": 3619, "quad_index": 1, "target": "东北同学", "argument": "我觉的人很好啊，没什么可黑的", "label": "non-hate", "binary_label": 0}
+{"id": 7095, "quad_index": 1, "target": "廣西美食", "argument": "人肝最美味🤭", "label": "Region", "binary_label": 1}
+{"id": 1081, "quad_index": 1, "target": "女权", "argument": "天天拿生孩子做家务来为幌子打压中国男性", "label": "Sexism", "binary_label": 1}
+{"id": 14, "quad_index": 0, "target": "务实帅男的", "argument": "挑拨离间", "label": "Region", "binary_label": 1}
+{"id": 2852, "quad_index": 0, "target": "二本女生", "argument": "值100w", "label": "Sexism", "binary_label": 1}
+{"id": 4926, "quad_index": 0, "target": "你", "argument": "不能再你的黑人老公被遣返或者回国过后还留在中国", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 7597, "quad_index": 0, "target": "嘿仁", "argument": "科普嘿仁的危害", "label": "Racism", "binary_label": 1}
+{"id": 4806, "quad_index": 0, "target": "陕西的", "argument": "枯了", "label": "non-hate", "binary_label": 0}
+{"id": 7237, "quad_index": 0, "target": "广西", "argument": "没有广西吗？", "label": "non-hate", "binary_label": 0}
+{"id": 1560, "quad_index": 0, "target": "成都", "argument": "被黑", "label": "Region", "binary_label": 1}
+{"id": 383, "quad_index": 1, "target": "单方面的感情", "argument": "值包泡面吗？", "label": "others", "binary_label": 1}
+{"id": 1266, "quad_index": 0, "target": "我们", "argument": "黄祸", "label": "Racism", "binary_label": 1}
+{"id": 3526, "quad_index": 0, "target": "基佬", "argument": "纯种懦夫", "label": "LGBTQ", "binary_label": 1}
+{"id": 7763, "quad_index": 0, "target": "你", "argument": "散斌", "label": "non-hate", "binary_label": 0}
+{"id": 7879, "quad_index": 0, "target": "你", "argument": "活该", "label": "non-hate", "binary_label": 0}
+{"id": 2925, "quad_index": 0, "target": "中国男孩", "argument": "绝对比国内好得很多很多", "label": "non-hate", "binary_label": 0}
+{"id": 2988, "quad_index": 1, "target": "默", "argument": "和默骂无声贡献的郭楠不觉得自己很ex么？", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 1950, "quad_index": 0, "target": "基", "argument": "无艾不是真基", "label": "LGBTQ, others", "binary_label": 1}
+{"id": 4104, "quad_index": 0, "target": "统计数据", "argument": "全球最低", "label": "non-hate", "binary_label": 0}
+{"id": 7307, "quad_index": 0, "target": "小战士", "argument": "说的没错", "label": "Sexism", "binary_label": 1}
+{"id": 7195, "quad_index": 0, "target": "三非黑人", "argument": "人家日子过得爽着呢", "label": "Racism", "binary_label": 1}
+{"id": 637, "quad_index": 0, "target": "我", "argument": "支持男同胞", "label": "non-hate", "binary_label": 0}
+{"id": 2233, "quad_index": 0, "target": "跪虫族", "argument": "不要去当键盘侠都快快去学学虫爹与虫娘勇敢冲上大街上打砸抢啊", "label": "Racism", "binary_label": 1}
+{"id": 3924, "quad_index": 0, "target": "基蛆", "argument": "在网上吠而已", "label": "LGBTQ", "binary_label": 1}
+{"id": 2480, "quad_index": 1, "target": "女人", "argument": "把女人当男人一样对待", "label": "Sexism", "binary_label": 1}
+{"id": 6786, "quad_index": 0, "target": "药娘", "argument": "女人pua男人那套对药娘无效", "label": "Sexism", "binary_label": 1}
+{"id": 5219, "quad_index": 1, "target": "舔狗龟男理中客们", "argument": "不是男人能打醒的", "label": "Sexism", "binary_label": 1}
+{"id": 3657, "quad_index": 1, "target": "有些人", "argument": "跟风黑", "label": "non-hate", "binary_label": 0}
+{"id": 4042, "quad_index": 0, "target": "黑命贵", "argument": "祸害原住民", "label": "Racism", "binary_label": 1}
+{"id": 63, "quad_index": 0, "target": "NULL", "argument": "谁接一下这个拳法", "label": "Sexism", "binary_label": 1}
+{"id": 5022, "quad_index": 0, "target": "日据时期的广东", "argument": "汉奸横行，满城尽是日华亲善", "label": "Region", "binary_label": 1}
+{"id": 3809, "quad_index": 0, "target": "我们这个年代", "argument": "南方比北方发达", "label": "non-hate", "binary_label": 0}
+{"id": 2994, "quad_index": 0, "target": "黑人", "argument": "为什么大家不骂黑人", "label": "Racism", "binary_label": 1}
+{"id": 1451, "quad_index": 0, "target": "没钱男人", "argument": "有可能都讨厌男人", "label": "others", "binary_label": 1}
+{"id": 1953, "quad_index": 0, "target": "上海人", "argument": "不就那样吗？", "label": "Region", "binary_label": 1}
+{"id": 1234, "quad_index": 0, "target": "非洲黑人的后代", "argument": "都回非洲去", "label": "Racism", "binary_label": 1}
+{"id": 5049, "quad_index": 0, "target": "猩猩", "argument": "发枫也是这样", "label": "Racism", "binary_label": 1}
+{"id": 5816, "quad_index": 0, "target": "她们", "argument": "不想奋斗", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 5156, "quad_index": 0, "target": "俄罗斯，乌克兰的斯拉夫人", "argument": "最符合国人审美的白人", "label": "non-hate", "binary_label": 0}
+{"id": 7207, "quad_index": 0, "target": "她们", "argument": "圣母", "label": "others, Sexism", "binary_label": 1}
+{"id": 3113, "quad_index": 0, "target": "干拳击手", "argument": "玩个游戏都有那么多拳击手", "label": "Sexism", "binary_label": 1}
+{"id": 7324, "quad_index": 0, "target": "肤色原因", "argument": "看起来还挺顺眼的", "label": "Racism", "binary_label": 1}
+{"id": 202, "quad_index": 0, "target": "黑人", "argument": "丑恶嘴脸", "label": "Racism", "binary_label": 1}
+{"id": 5285, "quad_index": 0, "target": "黑人", "argument": "嚣张", "label": "Racism", "binary_label": 1}
+{"id": 6440, "quad_index": 0, "target": "黑", "argument": "好斗", "label": "Racism", "binary_label": 1}
+{"id": 2526, "quad_index": 0, "target": "东北人", "argument": "从事这种违法犯罪", "label": "non-hate", "binary_label": 0}
+{"id": 7123, "quad_index": 1, "target": "没钱的缺钱少钱的男性朋友", "argument": "咨询我", "label": "non-hate", "binary_label": 0}
+{"id": 2921, "quad_index": 1, "target": "西方媒体", "argument": "对中国的各种抹黑禁言", "label": "Region, others", "binary_label": 1}
+{"id": 4007, "quad_index": 1, "target": "外来物种", "argument": "又有钱又有人", "label": "Racism", "binary_label": 1}
+{"id": 7246, "quad_index": 0, "target": "黑龙江", "argument": "有省名", "label": "non-hate", "binary_label": 0}
+{"id": 3018, "quad_index": 0, "target": "屈机头条", "argument": "非常的喜欢", "label": "non-hate", "binary_label": 0}
+{"id": 2983, "quad_index": 0, "target": "广西的桂柳地区", "argument": "长相跟全国其他地区差异不大", "label": "non-hate", "binary_label": 0}
+{"id": 170, "quad_index": 0, "target": "南京人民", "argument": "用历史来嘲讽", "label": "Region", "binary_label": 1}
+{"id": 1700, "quad_index": 0, "target": "我", "argument": "希望直接嫁过去", "label": "non-hate", "binary_label": 0}
+{"id": 3853, "quad_index": 0, "target": "我们", "argument": "允许你们同性恋的存在", "label": "LGBTQ", "binary_label": 1}
+{"id": 7595, "quad_index": 0, "target": "黑人黑杂", "argument": "绝育", "label": "Racism", "binary_label": 1}
+{"id": 4135, "quad_index": 0, "target": "同性恋", "argument": "是天生的吗", "label": "non-hate", "binary_label": 0}
+{"id": 7160, "quad_index": 0, "target": "他们", "argument": "我他玛就是歧视", "label": "others", "binary_label": 1}
+{"id": 5575, "quad_index": 1, "target": "交往黑人男友的女生", "argument": "做不了朋友", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 2826, "quad_index": 0, "target": "男权女权", "argument": "母亲和母体的博弈", "label": "non-hate", "binary_label": 0}
+{"id": 3828, "quad_index": 1, "target": "她", "argument": "靠男人", "label": "Sexism", "binary_label": 1}
+{"id": 6722, "quad_index": 0, "target": "奥黑", "argument": "不能代表黑人", "label": "Racism", "binary_label": 1}
+{"id": 6145, "quad_index": 0, "target": "女性", "argument": "鸡汤作者一半以上是女性", "label": "Sexism", "binary_label": 1}
+{"id": 4759, "quad_index": 0, "target": "媚黑女", "argument": "远大于媚黑男", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 3231, "quad_index": 0, "target": "黑人", "argument": "低人一等", "label": "Region, Racism", "binary_label": 1}
+{"id": 3885, "quad_index": 0, "target": "虫类及其它们后代虫混", "argument": "不是所谓人类", "label": "Racism", "binary_label": 1}
+{"id": 1437, "quad_index": 1, "target": "普信男", "argument": "值得骄傲，值得赞扬", "label": "Sexism", "binary_label": 1}
+{"id": 4263, "quad_index": 0, "target": "外地人", "argument": "歧视上海人", "label": "Region", "binary_label": 1}
+{"id": 1183, "quad_index": 0, "target": "河南", "argument": "就喜欢黑你河南是吧😄", "label": "Region", "binary_label": 1}
+{"id": 192, "quad_index": 0, "target": "无良媒体", "argument": "竟然还用做他女朋友令人羡慕来形容", "label": "others", "binary_label": 1}
+{"id": 6085, "quad_index": 0, "target": "江南三村", "argument": "嘲讽江浙沪", "label": "Region", "binary_label": 1}
+{"id": 5627, "quad_index": 0, "target": "东北", "argument": "比上海惨多了", "label": "non-hate", "binary_label": 0}
+{"id": 7388, "quad_index": 0, "target": "她", "argument": "让她生下来，在分", "label": "Sexism", "binary_label": 1}
+{"id": 2249, "quad_index": 0, "target": "你", "argument": "去和法律说这话", "label": "non-hate", "binary_label": 0}
+{"id": 5146, "quad_index": 0, "target": "微博女拳", "argument": "脑子里也就那点东西了", "label": "Sexism", "binary_label": 1}
+{"id": 6657, "quad_index": 0, "target": "楼主", "argument": "根本就没做到“关爱”女性", "label": "Sexism", "binary_label": 1}
+{"id": 5707, "quad_index": 0, "target": "黑人", "argument": "百分之三十以上的艾滋病", "label": "Racism, others", "binary_label": 1}
+{"id": 5512, "quad_index": 0, "target": "国铝", "argument": "是这样的", "label": "Sexism", "binary_label": 1}
+{"id": 6926, "quad_index": 0, "target": "ezgirl和跪族篮孩", "argument": "批判", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 7944, "quad_index": 0, "target": "你", "argument": "智商也高不到哪里去", "label": "non-hate", "binary_label": 0}
+{"id": 6402, "quad_index": 0, "target": "基佬", "argument": "男人更加讨厌", "label": "LGBTQ, Sexism", "binary_label": 1}
+{"id": 2855, "quad_index": 0, "target": "江西", "argument": "果然没有存在感😂😂😂", "label": "Region", "binary_label": 1}
+{"id": 4243, "quad_index": 0, "target": "匿名", "argument": "随你怎么说", "label": "non-hate", "binary_label": 0}
+{"id": 6433, "quad_index": 0, "target": "东北人", "argument": "骂河南人能把河南人骂自闭", "label": "Region", "binary_label": 1}
+{"id": 7598, "quad_index": 0, "target": "女的", "argument": "用人单位更加千方百计地不接收", "label": "Sexism", "binary_label": 1}
+{"id": 2608, "quad_index": 0, "target": "关于非洲的", "argument": "都要慎重考虑", "label": "Region", "binary_label": 1}
+{"id": 1647, "quad_index": 0, "target": "它们", "argument": "野生动物昆虫纲卵体寄生虫这一铁一样事实", "label": "Racism", "binary_label": 1}
+{"id": 5991, "quad_index": 0, "target": "她", "argument": "别惯着她", "label": "Sexism", "binary_label": 1}
+{"id": 3955, "quad_index": 0, "target": "过度贫穷和富有", "argument": "原罪", "label": "non-hate", "binary_label": 0}
+{"id": 5483, "quad_index": 1, "target": "广东", "argument": "广东以北都是北方😊", "label": "non-hate", "binary_label": 0}
+{"id": 6545, "quad_index": 0, "target": "家奴", "argument": "不予家奴", "label": "Racism", "binary_label": 1}
+{"id": 204, "quad_index": 1, "target": "黑人", "argument": "洗不白了", "label": "Racism", "binary_label": 1}
+{"id": 3053, "quad_index": 0, "target": "飞周", "argument": "多穷啊", "label": "Region", "binary_label": 1}
+{"id": 805, "quad_index": 0, "target": "你", "argument": "没法背调", "label": "non-hate", "binary_label": 0}
+{"id": 1888, "quad_index": 1, "target": "宗教信仰", "argument": "这种东西说白了都是人定的", "label": "others", "binary_label": 1}
+{"id": 2267, "quad_index": 0, "target": "我的新郎", "argument": "再见", "label": "non-hate", "binary_label": 0}
+{"id": 3737, "quad_index": 0, "target": "在大陆的黑人", "argument": "很多都有中国女友", "label": "non-hate", "binary_label": 0}
+{"id": 1374, "quad_index": 1, "target": "她", "argument": "可以不嫁", "label": "non-hate", "binary_label": 0}
+{"id": 1276, "quad_index": 0, "target": "果子狸", "argument": "是男的吗？", "label": "Sexism", "binary_label": 1}
+{"id": 1093, "quad_index": 0, "target": "黑人", "argument": "他们看中国女生的眼神都很恐怖 仿佛就是行走的生殖器", "label": "Racism", "binary_label": 1}
+{"id": 5395, "quad_index": 0, "target": "有些人", "argument": "得寸进尺", "label": "non-hate", "binary_label": 0}
+{"id": 5788, "quad_index": 1, "target": "其他乱搞的外国人", "argument": "垃圾渣滓", "label": "Racism, others", "binary_label": 1}
+{"id": 2311, "quad_index": 0, "target": "幕刃", "argument": "打破她们的外包装现出原形就好了", "label": "Sexism", "binary_label": 1}
+{"id": 2304, "quad_index": 0, "target": "中老年断子老苟", "argument": "内心巴不得这种状况愈演愈烈", "label": "Sexism", "binary_label": 1}
+{"id": 5394, "quad_index": 0, "target": "西方的教会", "argument": "拒绝甚至诅咒同性恋", "label": "LGBTQ", "binary_label": 1}
+{"id": 6758, "quad_index": 0, "target": "你", "argument": "看一下文章比较好", "label": "non-hate", "binary_label": 0}
+{"id": 3836, "quad_index": 1, "target": "他们", "argument": "地域撕逼到底", "label": "Region", "binary_label": 1}
+{"id": 299, "quad_index": 0, "target": "评论区的", "argument": "可以撤退了🤣🤣🤣不害怕吗", "label": "others", "binary_label": 1}
+{"id": 1277, "quad_index": 0, "target": "eg", "argument": "汉奸的老婆", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 7705, "quad_index": 0, "target": "鼠鼠", "argument": "被俺整急了", "label": "non-hate", "binary_label": 0}
+{"id": 4878, "quad_index": 0, "target": "黑人", "argument": "没有责任感一说", "label": "Racism", "binary_label": 1}
+{"id": 5963, "quad_index": 0, "target": "江北人", "argument": "被苏南歧视的人", "label": "Region", "binary_label": 1}
+{"id": 3155, "quad_index": 0, "target": "这个", "argument": "真正在现实生活中经历过的人", "label": "non-hate", "binary_label": 0}
+{"id": 6120, "quad_index": 0, "target": "龟男", "argument": "要出让好处，前提是你能拿到更多的好处才值得", "label": "non-hate", "binary_label": 0}
+{"id": 6129, "quad_index": 0, "target": "上海", "argument": "苏北人还不多？", "label": "non-hate", "binary_label": 0}
+{"id": 67, "quad_index": 1, "target": "郭女", "argument": "我是没有做推土机的欲望", "label": "Sexism", "binary_label": 1}
+{"id": 5899, "quad_index": 0, "target": "我们", "argument": "要怎样才能阻止这东西", "label": "non-hate", "binary_label": 0}
+{"id": 5317, "quad_index": 0, "target": "你", "argument": "接盘", "label": "Sexism", "binary_label": 1}
+{"id": 3678, "quad_index": 0, "target": "彩礼吧", "argument": "农村小仙女聚集地", "label": "Sexism, others", "binary_label": 1}
+{"id": 1581, "quad_index": 0, "target": "山西", "argument": "最穷的", "label": "Region", "binary_label": 1}
+{"id": 7569, "quad_index": 1, "target": "女性", "argument": "婚姻完整残害了许多女性身心健康", "label": "Sexism", "binary_label": 1}
+{"id": 4289, "quad_index": 0, "target": "她们", "argument": "只要婚后别赖在娘家就行，孩子国籍只要不是中国就好", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 7590, "quad_index": 0, "target": "大学", "argument": "一大堆", "label": "non-hate", "binary_label": 0}
+{"id": 7979, "quad_index": 0, "target": "宁", "argument": "第一口就是宁咬的", "label": "non-hate", "binary_label": 0}
+{"id": 1088, "quad_index": 0, "target": "河南", "argument": "骗子", "label": "Region", "binary_label": 1}
+{"id": 3374, "quad_index": 1, "target": "他们这些国家", "argument": "艾滋病感染率30%-50%", "label": "Racism, others", "binary_label": 1}
+{"id": 1643, "quad_index": 0, "target": "东北", "argument": "我关注东北推送我的全是黑东北的", "label": "Region", "binary_label": 1}
+{"id": 2868, "quad_index": 0, "target": "女人", "argument": "想留下后代都不难", "label": "non-hate", "binary_label": 0}
+{"id": 5387, "quad_index": 0, "target": "双标男", "argument": "不停的给人洗脑男女有别", "label": "Sexism", "binary_label": 1}
+{"id": 6830, "quad_index": 0, "target": "GDP高的地方", "argument": "素质相对来说也会高很多", "label": "non-hate", "binary_label": 0}
+{"id": 109, "quad_index": 0, "target": "我们", "argument": "肖万", "label": "Racism", "binary_label": 1}
+{"id": 3717, "quad_index": 0, "target": "魔都", "argument": "不服", "label": "non-hate", "binary_label": 0}
+{"id": 3355, "quad_index": 0, "target": "性取向异常患者", "argument": "意识到性取向疾病的可怕", "label": "LGBTQ", "binary_label": 1}
+{"id": 3063, "quad_index": 1, "target": "它们", "argument": "生物物种是属于昆虫纲最低等卵体寄生虫", "label": "Racism", "binary_label": 1}
+{"id": 7204, "quad_index": 1, "target": "黑人", "argument": "低智商和野蛮", "label": "Racism", "binary_label": 1}
+{"id": 3097, "quad_index": 0, "target": "《牛棚杂忆》《平凡的世界》还有很多伤痕文学", "argument": "题材都是改开前的故事", "label": "non-hate", "binary_label": 0}
+{"id": 2201, "quad_index": 0, "target": "同性恋", "argument": "极度的玻璃心", "label": "LGBTQ", "binary_label": 1}
+{"id": 1008, "quad_index": 0, "target": "这男的", "argument": "是个同性恋，被女友发现了，然后杀人灭口", "label": "LGBTQ", "binary_label": 1}
+{"id": 5242, "quad_index": 0, "target": "它们", "argument": "一个洞都能交配", "label": "Racism", "binary_label": 1}
+{"id": 2763, "quad_index": 0, "target": "男权还是女权", "argument": "都是偏激的", "label": "non-hate", "binary_label": 0}
+{"id": 7762, "quad_index": 0, "target": "女性", "argument": "生孩子是权利而不是义务", "label": "non-hate", "binary_label": 0}
+{"id": 7372, "quad_index": 0, "target": "女人", "argument": "因为生理因素比男人劣等", "label": "Sexism", "binary_label": 1}
+{"id": 6272, "quad_index": 1, "target": "黑人", "argument": "贡献了55%的犯罪事件", "label": "Racism, others", "binary_label": 1}
+{"id": 838, "quad_index": 0, "target": "帮女人说话的", "argument": "最为可气的", "label": "Sexism", "binary_label": 1}
+{"id": 3094, "quad_index": 0, "target": "江西女的", "argument": "虚伪到了极致", "label": "Region, Sexism", "binary_label": 1}
+{"id": 3835, "quad_index": 1, "target": "那货", "argument": "看过它所谓言论完全就是典型断章取义", "label": "Racism", "binary_label": 1}
+{"id": 806, "quad_index": 0, "target": "我", "argument": "搬运违反民族团结了", "label": "non-hate", "binary_label": 0}
+{"id": 512, "quad_index": 0, "target": "男同胞", "argument": "注意", "label": "non-hate", "binary_label": 0}
+{"id": 4643, "quad_index": 0, "target": "河南人", "argument": "犯罪率远低于全国平均水平", "label": "non-hate", "binary_label": 0}
+{"id": 1685, "quad_index": 0, "target": "我", "argument": "buff拉满了吧", "label": "Region", "binary_label": 1}
+{"id": 5070, "quad_index": 0, "target": "她", "argument": "固她所愿", "label": "non-hate", "binary_label": 0}
+{"id": 2122, "quad_index": 0, "target": "NULL", "argument": "当成女权来侮辱", "label": "Sexism", "binary_label": 1}
+{"id": 5442, "quad_index": 0, "target": "监狱医院", "argument": "监狱墓地", "label": "non-hate", "binary_label": 0}
+{"id": 1618, "quad_index": 0, "target": "NULL", "argument": "老阿三了😅", "label": "Region", "binary_label": 1}
+{"id": 1246, "quad_index": 0, "target": "毛男", "argument": "自己看得都不好意思了", "label": "non-hate", "binary_label": 0}
+{"id": 6246, "quad_index": 0, "target": "我", "argument": "不结婚了", "label": "non-hate", "binary_label": 0}
+{"id": 7170, "quad_index": 0, "target": "同", "argument": "得治", "label": "LGBTQ", "binary_label": 1}
+{"id": 4210, "quad_index": 0, "target": "百分之99的男童", "argument": "挺不正常", "label": "LGBTQ", "binary_label": 1}
+{"id": 218, "quad_index": 1, "target": "全国人民", "argument": "都是一样的", "label": "non-hate", "binary_label": 0}
+{"id": 3751, "quad_index": 0, "target": "国际鬼子虫类及其它们后代虫混", "argument": "居然敢使用人类词汇的帅", "label": "Racism", "binary_label": 1}
+{"id": 244, "quad_index": 0, "target": "吃瓜群众", "argument": "越来越少", "label": "non-hate", "binary_label": 0}
+{"id": 602, "quad_index": 0, "target": "女犬", "argument": "发情腻上你，你不愿意就诬告你强奸", "label": "Sexism", "binary_label": 1}
+{"id": 2272, "quad_index": 0, "target": "黑种人", "argument": "基因顽强是有目共睹的", "label": "Racism", "binary_label": 1}
+{"id": 221, "quad_index": 0, "target": "你老公", "argument": "是什么家庭出生的", "label": "non-hate", "binary_label": 0}
+{"id": 250, "quad_index": 0, "target": "河南人", "argument": "一流动就被黑", "label": "Region", "binary_label": 1}
+{"id": 4342, "quad_index": 0, "target": "我", "argument": "种族主义", "label": "Racism", "binary_label": 1}
+{"id": 3969, "quad_index": 1, "target": "跟嘿贵一起的", "argument": "为爱不顾一切的", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 2612, "quad_index": 1, "target": "桶屈", "argument": "传播疾病的恶人", "label": "LGBTQ, others", "binary_label": 1}
+{"id": 2375, "quad_index": 0, "target": "敌人", "argument": "说的都是错的吗", "label": "non-hate", "binary_label": 0}
+{"id": 5537, "quad_index": 0, "target": "北京山东河北", "argument": "最歧视东北了", "label": "Region", "binary_label": 1}
+{"id": 3387, "quad_index": 1, "target": "这些女的", "argument": "找一个老实人接盘顺便传染下艾滋", "label": "Sexism, Racism, others", "binary_label": 1}
+{"id": 5681, "quad_index": 0, "target": "江西人", "argument": "结个婚彩礼都好几十万", "label": "Region", "binary_label": 1}
+{"id": 1400, "quad_index": 0, "target": "大家", "argument": "激进一点，再激进一点", "label": "non-hate", "binary_label": 0}
+{"id": 1859, "quad_index": 1, "target": "男人", "argument": "怕其他男人变成舔狗罢了", "label": "Sexism", "binary_label": 1}
+{"id": 904, "quad_index": 1, "target": "某些只有河南人口一半的省份", "argument": "犯罪率高于河南😄", "label": "Region", "binary_label": 1}
+{"id": 2398, "quad_index": 0, "target": "犹太狗", "argument": "在后面给他撑腰", "label": "Racism", "binary_label": 1}
+{"id": 7735, "quad_index": 0, "target": "这些玩意儿", "argument": "有什么心理疾病😓", "label": "non-hate", "binary_label": 0}
+{"id": 1242, "quad_index": 0, "target": "山西", "argument": "挖煤的", "label": "Region", "binary_label": 1}
+{"id": 3370, "quad_index": 0, "target": "你", "argument": "把他掰弯了", "label": "LGBTQ", "binary_label": 1}
+{"id": 6142, "quad_index": 0, "target": "我", "argument": "给我戴个种族歧视的帽子", "label": "Racism", "binary_label": 1}
+{"id": 7051, "quad_index": 1, "target": "国铝", "argument": "不上当才怪了", "label": "Sexism", "binary_label": 1}
+{"id": 329, "quad_index": 0, "target": "瘾君子", "argument": "立法禁止瘾君子进入中国", "label": "non-hate", "binary_label": 0}
+{"id": 2174, "quad_index": 0, "target": "一个女的", "argument": "错了不懂认错，她就没以后了", "label": "Sexism", "binary_label": 1}
+{"id": 7599, "quad_index": 0, "target": "国男", "argument": "不要给中国女孩儿按头eg了", "label": "Sexism", "binary_label": 1}
+{"id": 4713, "quad_index": 0, "target": "你", "argument": "在美国是要进警察局的", "label": "non-hate", "binary_label": 0}
+{"id": 2142, "quad_index": 0, "target": "你这个数据", "argument": "老掉牙了", "label": "non-hate", "binary_label": 0}
+{"id": 608, "quad_index": 1, "target": "外地人", "argument": "一提陕西就是黄土高坡羊背心", "label": "non-hate", "binary_label": 0}
+{"id": 968, "quad_index": 0, "target": "小仙女", "argument": "小仙女的事你少管", "label": "Sexism", "binary_label": 1}
+{"id": 6550, "quad_index": 0, "target": "同性", "argument": "违背大自然", "label": "non-hate", "binary_label": 0}
+{"id": 3166, "quad_index": 0, "target": "南昌", "argument": "很文明的地方", "label": "non-hate", "binary_label": 0}
+{"id": 1384, "quad_index": 0, "target": "洋人", "argument": "从中国公司赚的越多内心里越反华", "label": "Racism", "binary_label": 1}
+{"id": 6247, "quad_index": 0, "target": "配偶工资上交", "argument": "家暴", "label": "non-hate", "binary_label": 0}
+{"id": 3995, "quad_index": 0, "target": "人家", "argument": "没惹你", "label": "non-hate", "binary_label": 0}
+{"id": 3159, "quad_index": 0, "target": "你自己评论", "argument": "也不这么说的么", "label": "non-hate", "binary_label": 0}
+{"id": 582, "quad_index": 1, "target": "武汉话", "argument": "难听", "label": "non-hate", "binary_label": 0}
+{"id": 3403, "quad_index": 1, "target": "其他省份", "argument": "被黑的是人品呐！", "label": "Region", "binary_label": 1}
+{"id": 6375, "quad_index": 0, "target": "动物", "argument": "分辨不了tx行为和yx行为", "label": "non-hate", "binary_label": 0}
+{"id": 7691, "quad_index": 0, "target": "地头蛇", "argument": "根深蒂固", "label": "non-hate", "binary_label": 0}
+{"id": 4493, "quad_index": 0, "target": "东北", "argument": "抵抗日本侵略至少50年", "label": "non-hate", "binary_label": 0}
+{"id": 4835, "quad_index": 0, "target": "我", "argument": "没拉黑你", "label": "non-hate", "binary_label": 0}
+{"id": 2493, "quad_index": 0, "target": "内部汉奸", "argument": "故意的", "label": "others", "binary_label": 1}
+{"id": 3525, "quad_index": 0, "target": "前提和推理", "argument": "不足", "label": "non-hate", "binary_label": 0}
+{"id": 3522, "quad_index": 0, "target": "东北人", "argument": "直爽", "label": "non-hate", "binary_label": 0}
+{"id": 2223, "quad_index": 0, "target": "苏北跟江西", "argument": "pk绝对是被带了节奏", "label": "non-hate", "binary_label": 0}
+{"id": 5040, "quad_index": 0, "target": "黑人妹子", "argument": "咱们应该跟黑人妹子交往", "label": "Racism, Sexism", "binary_label": 1}
+{"id": 4585, "quad_index": 0, "target": "广州", "argument": "黑河南、黑北方的总部", "label": "Region", "binary_label": 1}
+{"id": 1119, "quad_index": 0, "target": "全职太太", "argument": "韩国把全职太太叫妈虫", "label": "Sexism", "binary_label": 1}
+{"id": 2940, "quad_index": 0, "target": "内外之分", "argument": "内外之分正在变的很模糊", "label": "non-hate", "binary_label": 0}
+{"id": 7612, "quad_index": 0, "target": "宠女人的男人", "argument": "狗", "label": "Sexism", "binary_label": 1}
+{"id": 4522, "quad_index": 0, "target": "哥们", "argument": "乐观点", "label": "non-hate", "binary_label": 0}
+{"id": 2841, "quad_index": 0, "target": "反同", "argument": "都有什么活动", "label": "LGBTQ", "binary_label": 1}
+{"id": 3580, "quad_index": 0, "target": "女的签名骂男的", "argument": "签名骂女的很快就会被删，但有女的签名骂男的没事", "label": "Sexism", "binary_label": 1}
+{"id": 7535, "quad_index": 1, "target": "骗婚的", "argument": "不只是同性恋", "label": "non-hate", "binary_label": 0}
+{"id": 1759, "quad_index": 0, "target": "知乎", "argument": "黑江浙沪的少？", "label": "Region", "binary_label": 1}
+{"id": 62, "quad_index": 0, "target": "这个人", "argument": "哪个非洲国家的", "label": "Region", "binary_label": 1}
+{"id": 7005, "quad_index": 0, "target": "你", "argument": "从良把图删了", "label": "non-hate", "binary_label": 0}
+{"id": 6944, "quad_index": 0, "target": "你", "argument": "多重战略机遇叠加", "label": "non-hate", "binary_label": 0}
+{"id": 2685, "quad_index": 1, "target": "这个🐶", "argument": "这点这个🐶的贴已经说明了", "label": "others", "binary_label": 1}
+{"id": 417, "quad_index": 0, "target": "中国男性", "argument": "你鄙夷的中国男性操守", "label": "Sexism", "binary_label": 1}
+{"id": 7025, "quad_index": 1, "target": "黑吉辽", "argument": "黑及辽", "label": "Region", "binary_label": 1}
+{"id": 4472, "quad_index": 0, "target": "朱军", "argument": "事业都凉透了，才坐实诬告", "label": "Sexism", "binary_label": 1}
+{"id": 452, "quad_index": 0, "target": "那些人", "argument": "高级黑", "label": "non-hate", "binary_label": 0}
+{"id": 1789, "quad_index": 0, "target": "上海人", "argument": "对外地人的歧视是客观存在的", "label": "Region", "binary_label": 1}
+{"id": 7670, "quad_index": 0, "target": "中国", "argument": "14亿人出几个nt也正常", "label": "non-hate", "binary_label": 0}
+{"id": 6903, "quad_index": 0, "target": "湖北", "argument": "跑了", "label": "non-hate", "binary_label": 0}
+{"id": 485, "quad_index": 0, "target": "真女拳", "argument": "因为谷爱凌挑战郭女白瘦幼审美观都骂她呢", "label": "Sexism", "binary_label": 1}
+{"id": 1528, "quad_index": 0, "target": "全宇宙各星系的反同剧迷们", "argument": "都拉足了期待", "label": "LGBTQ", "binary_label": 1}
+{"id": 7889, "quad_index": 0, "target": "你们反同的“爱郭人士”", "argument": "给出一万", "label": "LGBTQ", "binary_label": 1}
+{"id": 1319, "quad_index": 0, "target": "你", "argument": "上去洗个澡再走", "label": "non-hate", "binary_label": 0}
+{"id": 5394, "quad_index": 1, "target": "西方炼铜的", "argument": "该怎么死怎么死", "label": "Region, others", "binary_label": 1}
+{"id": 1878, "quad_index": 0, "target": "上海", "argument": "罕见多", "label": "Region", "binary_label": 1}
+{"id": 7416, "quad_index": 0, "target": "这个答案", "argument": "收藏", "label": "non-hate", "binary_label": 0}
+{"id": 3143, "quad_index": 0, "target": "大多数中国女性", "argument": "整个国家的负担", "label": "Sexism", "binary_label": 1}
+{"id": 4226, "quad_index": 0, "target": "上海人", "argument": "超级排外", "label": "Region", "binary_label": 1}
+{"id": 6863, "quad_index": 0, "target": "层主", "argument": "地域黑", "label": "Region", "binary_label": 1}
+{"id": 2705, "quad_index": 0, "target": "河北", "argument": "最没有地域歧视", "label": "non-hate", "binary_label": 0}
+{"id": 6886, "quad_index": 0, "target": "莆田系医院", "argument": "骗", "label": "Region", "binary_label": 1}
+{"id": 5643, "quad_index": 0, "target": "新疆", "argument": "那你怎么来的学校", "label": "Region", "binary_label": 1}
+{"id": 6720, "quad_index": 0, "target": "世界女权组织", "argument": "听着就吓人", "label": "non-hate", "binary_label": 0}
+{"id": 529, "quad_index": 0, "target": "同性恋", "argument": "跟异性恋是不一样的", "label": "non-hate", "binary_label": 0}
+{"id": 2048, "quad_index": 0, "target": "黑人", "argument": "外来物种", "label": "Racism", "binary_label": 1}
+{"id": 2539, "quad_index": 0, "target": "基佬", "argument": "加深反同战将之间对王的认识，提高士气，同时向基佬施压", "label": "LGBTQ", "binary_label": 1}
+{"id": 326, "quad_index": 0, "target": "普信男", "argument": "人家不就说了个普信男吗", "label": "Sexism", "binary_label": 1}
+{"id": 6602, "quad_index": 0, "target": "国男", "argument": "女拳的敌人", "label": "Sexism", "binary_label": 1}
+{"id": 3705, "quad_index": 0, "target": "你", "argument": "怎么一天到晚把彩礼挂嘴上", "label": "non-hate", "binary_label": 0}
+{"id": 744, "quad_index": 0, "target": "静茹", "argument": "声音超好听", "label": "non-hate", "binary_label": 0}
+{"id": 3906, "quad_index": 1, "target": "女孩子", "argument": "喜欢这些男明星", "label": "Sexism", "binary_label": 1}
+{"id": 4262, "quad_index": 0, "target": "你", "argument": "这么生气难道你继父是黑人", "label": "Racism, others", "binary_label": 1}
+{"id": 3409, "quad_index": 0, "target": "河南人", "argument": "挺友善了", "label": "non-hate", "binary_label": 0}
+{"id": 1969, "quad_index": 0, "target": "安徽", "argument": "也是资源输出省份，粮食矿产都不少", "label": "non-hate", "binary_label": 0}
+{"id": 301, "quad_index": 0, "target": "我", "argument": "真的没绷住", "label": "non-hate", "binary_label": 0}
+{"id": 7073, "quad_index": 0, "target": "男人", "argument": "找对象一般要温柔善良的", "label": "Sexism", "binary_label": 1}
+{"id": 384, "quad_index": 0, "target": "你们", "argument": "一直拿相貌说事肯定是不对的", "label": "non-hate", "binary_label": 0}
+{"id": 7300, "quad_index": 0, "target": "每个eg", "argument": "背后也有3个黑人呢", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 5425, "quad_index": 0, "target": "lkd", "argument": "滚", "label": "Sexism", "binary_label": 1}
+{"id": 1494, "quad_index": 0, "target": "黑人血统", "argument": "太顽固了", "label": "Racism", "binary_label": 1}
+{"id": 7871, "quad_index": 0, "target": "你", "argument": "卢蛇", "label": "non-hate", "binary_label": 0}
+{"id": 6284, "quad_index": 0, "target": "拳师", "argument": "把男性排挤出高等教育", "label": "Sexism", "binary_label": 1}
+{"id": 3562, "quad_index": 0, "target": "被爆出来的", "argument": "说的都是上海话", "label": "non-hate", "binary_label": 0}
+{"id": 6155, "quad_index": 0, "target": "学历歧视", "argument": "道德洼地", "label": "others", "binary_label": 1}
+{"id": 7236, "quad_index": 1, "target": "三非黑人", "argument": "为什么不立即驱逐出境", "label": "Racism", "binary_label": 1}
+{"id": 535, "quad_index": 0, "target": "NULL", "argument": "想要默了", "label": "Racism", "binary_label": 1}
+{"id": 842, "quad_index": 0, "target": "女✊", "argument": "就这种打拳学历能高？", "label": "Sexism", "binary_label": 1}
+{"id": 1504, "quad_index": 0, "target": "我", "argument": "也不是什么完人，偏激就偏激吧", "label": "non-hate", "binary_label": 0}
+{"id": 3356, "quad_index": 1, "target": "很多女人", "argument": "还分清美国黑人和非洲黑人", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 2660, "quad_index": 0, "target": "你弟哥", "argument": "都是0", "label": "LGBTQ", "binary_label": 1}
+{"id": 3276, "quad_index": 0, "target": "地域调侃", "argument": "没问题", "label": "non-hate", "binary_label": 0}
+{"id": 7443, "quad_index": 0, "target": "广东人", "argument": "说话嗓门大", "label": "non-hate", "binary_label": 0}
+{"id": 1359, "quad_index": 0, "target": "河南同胞", "argument": "不说话了", "label": "non-hate", "binary_label": 0}
+{"id": 3231, "quad_index": 1, "target": "乡巴佬", "argument": "能配上自己？", "label": "Region, Racism", "binary_label": 1}
+{"id": 3606, "quad_index": 0, "target": "女的", "argument": "什么离谱的要求都敢提", "label": "Sexism", "binary_label": 1}
+{"id": 966, "quad_index": 0, "target": "你", "argument": "我猜你是浙江人~~", "label": "non-hate", "binary_label": 0}
+{"id": 5683, "quad_index": 0, "target": "同性", "argument": "可比异性更容易传播", "label": "LGBTQ", "binary_label": 1}
+{"id": 2211, "quad_index": 0, "target": "女权", "argument": "支持憨色正义破女权防", "label": "Sexism", "binary_label": 1}
+{"id": 303, "quad_index": 0, "target": "卢旺达", "argument": "希望以后发生卢旺达华强买瓜事件的时候这些人还能笑得出来", "label": "Region", "binary_label": 1}
+{"id": 2977, "quad_index": 2, "target": "老贼", "argument": "别有用心的生下来看性别决定干什么", "label": "Sexism", "binary_label": 1}
+{"id": 416, "quad_index": 1, "target": "她们", "argument": "还能提什么女权", "label": "Sexism", "binary_label": 1}
+{"id": 3780, "quad_index": 0, "target": "你", "argument": "没在内地找过工作", "label": "non-hate", "binary_label": 0}
+{"id": 5427, "quad_index": 0, "target": "东北", "argument": "黑s会🐶", "label": "Region", "binary_label": 1}
+{"id": 7652, "quad_index": 0, "target": "你", "argument": "你寄吧谁啊、你代表全国？", "label": "non-hate", "binary_label": 0}
+{"id": 2986, "quad_index": 0, "target": "自己家人外的女性", "argument": "共情力彻底丢失了", "label": "Sexism", "binary_label": 1}
+{"id": 7191, "quad_index": 0, "target": "同性恋", "argument": "都有一些共同的称呼情侣，爱人，红颜，知己", "label": "non-hate", "binary_label": 0}
+{"id": 3240, "quad_index": 0, "target": "很多黑人的对象", "argument": "社会上的ji婆", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 5670, "quad_index": 0, "target": "舔狗", "argument": "没人领他的情", "label": "Sexism", "binary_label": 1}
+{"id": 855, "quad_index": 0, "target": "基佬", "argument": "还是看看HIV吧吧", "label": "LGBTQ, others", "binary_label": 1}
+{"id": 6424, "quad_index": 1, "target": "黑人", "argument": "滚蛋，wwe草，啥也不懂", "label": "Racism", "binary_label": 1}
+{"id": 3199, "quad_index": 0, "target": "三非", "argument": "举报三非 我赞成", "label": "Racism", "binary_label": 1}
+{"id": 7084, "quad_index": 0, "target": "她", "argument": "抖音上也有", "label": "non-hate", "binary_label": 0}
+{"id": 3404, "quad_index": 0, "target": "安徽人", "argument": "小偷小摸", "label": "Region", "binary_label": 1}
+{"id": 308, "quad_index": 0, "target": "东北人", "argument": "没他们老家人那么狭隘", "label": "non-hate", "binary_label": 0}
+{"id": 6960, "quad_index": 0, "target": "艾滋病患者", "argument": "婚检可都是保护艾滋病患者", "label": "non-hate", "binary_label": 0}
+{"id": 2178, "quad_index": 0, "target": "微博女权", "argument": "她自己结婚了忽悠人不要结婚可以赚钱", "label": "Sexism", "binary_label": 1}
+{"id": 6456, "quad_index": 0, "target": "这个女人", "argument": "感觉好恶心", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 3527, "quad_index": 0, "target": "日本", "argument": "找不到自己民族的年轻男人", "label": "Racism", "binary_label": 1}
+{"id": 7256, "quad_index": 0, "target": "你", "argument": "是个中国人", "label": "non-hate", "binary_label": 0}
+{"id": 6054, "quad_index": 0, "target": "NULL", "argument": "按灵长类处理", "label": "Racism", "binary_label": 1}
+{"id": 3195, "quad_index": 0, "target": "韩国", "argument": "不也一样", "label": "non-hate", "binary_label": 0}
+{"id": 7610, "quad_index": 1, "target": "别的女人", "argument": "关我鸟事", "label": "non-hate", "binary_label": 0}
+{"id": 2441, "quad_index": 1, "target": "大部分舔狗", "argument": "绝望", "label": "Sexism", "binary_label": 1}
+{"id": 6472, "quad_index": 0, "target": "HIV群体", "argument": "十之八九都是基佬", "label": "LGBTQ, others", "binary_label": 1}
+{"id": 6252, "quad_index": 0, "target": "偷窥男子的妻子", "argument": "骗婚女同", "label": "LGBTQ, Sexism", "binary_label": 1}
+{"id": 1420, "quad_index": 1, "target": "某些推崇非洲文化的叫兽", "argument": "不像", "label": "Region", "binary_label": 1}
+{"id": 6559, "quad_index": 0, "target": "人类学的行与思", "argument": "关于这方面的", "label": "non-hate", "binary_label": 0}
+{"id": 6834, "quad_index": 0, "target": "基佬", "argument": "那么怂", "label": "LGBTQ", "binary_label": 1}
+{"id": 766, "quad_index": 0, "target": "烂B", "argument": "在古代会被凌迟处死", "label": "Sexism", "binary_label": 1}
+{"id": 6063, "quad_index": 0, "target": "男性", "argument": "应该打HPV疫苗吗？", "label": "non-hate", "binary_label": 0}
+{"id": 4072, "quad_index": 0, "target": "好客山洞", "argument": "黑东北的百分之九十", "label": "Region", "binary_label": 1}
+{"id": 3863, "quad_index": 0, "target": "河南老乡", "argument": "前来报道", "label": "non-hate", "binary_label": 0}
+{"id": 461, "quad_index": 1, "target": "黑人", "argument": "远离黑人，幸福平安", "label": "Racism", "binary_label": 1}
+{"id": 6787, "quad_index": 0, "target": "黑人", "argument": "歧视", "label": "Racism", "binary_label": 1}
+{"id": 125, "quad_index": 0, "target": "四川人", "argument": "小偷", "label": "Region", "binary_label": 1}
+{"id": 2497, "quad_index": 0, "target": "关爱", "argument": "一文不值", "label": "non-hate", "binary_label": 0}
+{"id": 2365, "quad_index": 0, "target": "你们这帮同性恋", "argument": "梅毒传播率最高", "label": "LGBTQ", "binary_label": 1}
+{"id": 3321, "quad_index": 0, "target": "人们对同性恋的态度", "argument": "只会影响表面上的同性恋数量，但不会影响实际上的同性恋数量", "label": "non-hate", "binary_label": 0}
+{"id": 5051, "quad_index": 0, "target": "楼主", "argument": "说的非常棒", "label": "non-hate", "binary_label": 0}
+{"id": 4112, "quad_index": 0, "target": "人家新生", "argument": "胖矬", "label": "others", "binary_label": 1}
+{"id": 1398, "quad_index": 0, "target": "慈禧", "argument": "说得真对", "label": "non-hate", "binary_label": 0}
+{"id": 4361, "quad_index": 0, "target": "长沙法院", "argument": "母系社会", "label": "Sexism", "binary_label": 1}
+{"id": 6581, "quad_index": 0, "target": "黑", "argument": "一直黑下去", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 6647, "quad_index": 0, "target": "辽宁人", "argument": "歧视黑龙江人", "label": "Region", "binary_label": 1}
+{"id": 2959, "quad_index": 0, "target": "荷兰人", "argument": "是这样的", "label": "Region", "binary_label": 1}
+{"id": 1689, "quad_index": 0, "target": "这类内容", "argument": "对男性的PUA，以及告诉其他女的要这样做", "label": "Sexism", "binary_label": 1}
+{"id": 7611, "quad_index": 0, "target": "你", "argument": "嘴硬小胆的fw", "label": "non-hate", "binary_label": 0}
+{"id": 4748, "quad_index": 0, "target": "女的", "argument": "没证据只要女的说有就有", "label": "Sexism", "binary_label": 1}
+{"id": 6657, "quad_index": 1, "target": "女性", "argument": "光靠近都常常被当做骚扰", "label": "Sexism", "binary_label": 1}
+{"id": 6654, "quad_index": 0, "target": "你", "argument": "人才", "label": "non-hate", "binary_label": 0}
+{"id": 1199, "quad_index": 1, "target": "小仙女", "argument": "解释权只能在小仙女手上", "label": "Sexism", "binary_label": 1}
+{"id": 2061, "quad_index": 0, "target": "一切地域黑", "argument": "一律删除", "label": "Region", "binary_label": 1}
+{"id": 5774, "quad_index": 0, "target": "男男", "argument": "个别很乱", "label": "non-hate", "binary_label": 0}
+{"id": 3180, "quad_index": 0, "target": "这个吧", "argument": "有专门的QQ群吗？", "label": "non-hate", "binary_label": 0}
+{"id": 4809, "quad_index": 0, "target": "中国女人", "argument": "喜欢黑人，黑人太大了", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 442, "quad_index": 0, "target": "黑人", "argument": "任何国家黑人多了，都是犯罪和冲突的泥潭", "label": "Racism", "binary_label": 1}
+{"id": 6254, "quad_index": 0, "target": "她们", "argument": "普信女", "label": "Sexism", "binary_label": 1}
+{"id": 7225, "quad_index": 0, "target": "默", "argument": "是默不是嘿😆", "label": "Racism", "binary_label": 1}
+{"id": 4134, "quad_index": 1, "target": "黑人", "argument": "找个黑人继父", "label": "Racism, others", "binary_label": 1}
+{"id": 1149, "quad_index": 0, "target": "时代", "argument": "变了", "label": "non-hate", "binary_label": 0}
+{"id": 410, "quad_index": 0, "target": "所有的黑", "argument": "出自于嫉妒", "label": "non-hate", "binary_label": 0}
+{"id": 5086, "quad_index": 1, "target": "基佬", "argument": "无艾不是真基", "label": "LGBTQ, others", "binary_label": 1}
+{"id": 1170, "quad_index": 0, "target": "苏北男", "argument": "犯贱", "label": "Region", "binary_label": 1}
+{"id": 577, "quad_index": 0, "target": "黑皮", "argument": "我就是歧视黑皮啊✌️", "label": "Racism", "binary_label": 1}
+{"id": 646, "quad_index": 0, "target": "白人黑人", "argument": "都不喜欢", "label": "Racism", "binary_label": 1}
+{"id": 6650, "quad_index": 0, "target": "个人周围产生品行不端的", "argument": "大家就会离开", "label": "non-hate", "binary_label": 0}
+{"id": 2261, "quad_index": 0, "target": "韦春芳", "argument": "不会被老鸨强制打胎然后卖掉？", "label": "Sexism", "binary_label": 1}
+{"id": 4124, "quad_index": 0, "target": "种族炸弹", "argument": "那不是疯了吗", "label": "Racism", "binary_label": 1}
+{"id": 2172, "quad_index": 1, "target": "政府", "argument": "不作为", "label": "others", "binary_label": 1}
+{"id": 1526, "quad_index": 0, "target": "能轻松共情的人", "argument": "非常适合被当枪使", "label": "non-hate", "binary_label": 0}
+{"id": 1247, "quad_index": 0, "target": "同性恋", "argument": "下地狱就属阴了", "label": "LGBTQ", "binary_label": 1}
+{"id": 5540, "quad_index": 0, "target": "黑", "argument": "5000年都没变的颜色别再过几百年全黑了", "label": "Racism", "binary_label": 1}
+{"id": 5867, "quad_index": 0, "target": "男性", "argument": "属于男性的时代终会来临", "label": "non-hate", "binary_label": 0}
+{"id": 4504, "quad_index": 0, "target": "杨笠", "argument": "又是下头的一天", "label": "Sexism", "binary_label": 1}
+{"id": 2732, "quad_index": 0, "target": "NBA的脑残粉男的", "argument": "low到骨子里", "label": "others", "binary_label": 1}
+{"id": 4464, "quad_index": 0, "target": "国际鬼子虫类及其它们后代", "argument": "在非常严格科学证明定义下它们根不算人类", "label": "Racism", "binary_label": 1}
+{"id": 402, "quad_index": 0, "target": "小仙女", "argument": "都去非洲追求自由爱情了", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 688, "quad_index": 0, "target": "嫁给美国男人的中国女人", "argument": "汉奸", "label": "Sexism, Region", "binary_label": 1}
+{"id": 802, "quad_index": 0, "target": "NULL", "argument": "还比拳师好看点吧", "label": "Sexism", "binary_label": 1}
+{"id": 1933, "quad_index": 0, "target": "这女的", "argument": "自己烧还是被ai换脸了", "label": "Sexism", "binary_label": 1}
+{"id": 3171, "quad_index": 0, "target": "你们同性恋", "argument": "不是真爱吗？？？", "label": "LGBTQ", "binary_label": 1}
+{"id": 3541, "quad_index": 0, "target": "默", "argument": "无差别的讨厌", "label": "Racism", "binary_label": 1}
+{"id": 2743, "quad_index": 1, "target": "支持东北的", "argument": "少数", "label": "non-hate", "binary_label": 0}
+{"id": 709, "quad_index": 0, "target": "你黑爹", "argument": "高人一等？", "label": "Racism", "binary_label": 1}
+{"id": 5169, "quad_index": 0, "target": "度度", "argument": "也是够窝囊的", "label": "non-hate", "binary_label": 0}
+{"id": 2802, "quad_index": 0, "target": "嘿玩意", "argument": "热爱人民币和LKD的标子", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 6877, "quad_index": 0, "target": "河南人", "argument": "地域歧视还在这无脑黑", "label": "Region", "binary_label": 1}
+{"id": 754, "quad_index": 0, "target": "汉奸", "argument": "专门带女孩风向", "label": "others", "binary_label": 1}
+{"id": 1641, "quad_index": 0, "target": "她", "argument": "只要她遵守缓刑的规定就不会坐牢", "label": "Sexism", "binary_label": 1}
+{"id": 3775, "quad_index": 0, "target": "男性", "argument": "男性要是婚姻得益者，怎么还有饿死的", "label": "non-hate", "binary_label": 0}
+{"id": 3916, "quad_index": 1, "target": "刘亦菲", "argument": "十分", "label": "non-hate", "binary_label": 0}
+{"id": 6382, "quad_index": 0, "target": "欧美人", "argument": "胖子肥宅加短小", "label": "Region", "binary_label": 1}
+{"id": 6061, "quad_index": 0, "target": "大酋长夫人", "argument": "可以当大酋长夫人", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 1259, "quad_index": 0, "target": "女人", "argument": "男人根本不需要女人", "label": "Sexism", "binary_label": 1}
+{"id": 3518, "quad_index": 0, "target": "默", "argument": "恼羞成怒", "label": "Racism", "binary_label": 1}
+{"id": 131, "quad_index": 0, "target": "非酋酋长", "argument": "中国的村长", "label": "Racism", "binary_label": 1}
+{"id": 4720, "quad_index": 0, "target": "现在的人", "argument": "更喜欢做自己的事情", "label": "non-hate", "binary_label": 0}
+{"id": 4265, "quad_index": 0, "target": "你", "argument": "八成是想患上艾滋病后隐瞒别人，好找中国人接盘?", "label": "Sexism, Racism, others", "binary_label": 1}
+{"id": 7479, "quad_index": 0, "target": "二婚", "argument": "幸福大部分瞎编", "label": "others", "binary_label": 1}
+{"id": 792, "quad_index": 0, "target": "东北", "argument": "精神小伙", "label": "Region", "binary_label": 1}
+{"id": 7980, "quad_index": 0, "target": "他", "argument": "怂了", "label": "non-hate", "binary_label": 0}
+{"id": 2139, "quad_index": 0, "target": "两个大叔搂搂抱抱", "argument": "甩出一句好恶心😅", "label": "LGBTQ", "binary_label": 1}
+{"id": 3287, "quad_index": 0, "target": "公司", "argument": "公司要招50个大货车司机", "label": "Sexism", "binary_label": 1}
+{"id": 412, "quad_index": 0, "target": "深柜", "argument": "1很多", "label": "LGBTQ", "binary_label": 1}
+{"id": 5444, "quad_index": 0, "target": "拳", "argument": "起软怕硬", "label": "Sexism", "binary_label": 1}
+{"id": 7556, "quad_index": 0, "target": "江浙沪", "argument": "不黑其他省份就不错了", "label": "Region", "binary_label": 1}
+{"id": 6663, "quad_index": 1, "target": "女性", "argument": "气不过双标", "label": "Sexism", "binary_label": 1}
+{"id": 1634, "quad_index": 0, "target": "默", "argument": "这种东西还是在自己的虫穴待着好，别来中国传播艾滋梅毒", "label": "Racism", "binary_label": 1}
+{"id": 1360, "quad_index": 0, "target": "东北", "argument": "也是的🙁🙁🙁", "label": "non-hate", "binary_label": 0}
+{"id": 7331, "quad_index": 0, "target": "生男", "argument": "好", "label": "Sexism", "binary_label": 1}
+{"id": 3953, "quad_index": 0, "target": "这个女人", "argument": "打死她", "label": "Sexism", "binary_label": 1}
+{"id": 6663, "quad_index": 0, "target": "男人", "argument": "娶个黑妹也是生黑娃啊", "label": "Racism, Sexism", "binary_label": 1}
+{"id": 243, "quad_index": 0, "target": "同性恋", "argument": "大多是先天的，只是为了生存不得不一开始学会伪装", "label": "non-hate", "binary_label": 0}
+{"id": 3923, "quad_index": 0, "target": "他们", "argument": "解决因为需要子宫而不得不听女人的话的问题", "label": "Sexism", "binary_label": 1}
+{"id": 6227, "quad_index": 1, "target": "与非洲女性维持婚姻关系的男性", "argument": "当地的华企员工", "label": "non-hate", "binary_label": 0}
+{"id": 7989, "quad_index": 0, "target": "舔狗", "argument": "逻辑是硬伤", "label": "non-hate", "binary_label": 0}
+{"id": 7348, "quad_index": 0, "target": "艾滋", "argument": "昨天", "label": "others", "binary_label": 1}
+{"id": 5322, "quad_index": 0, "target": "李将军", "argument": "好人", "label": "non-hate", "binary_label": 0}
+{"id": 7586, "quad_index": 1, "target": "我同桌", "argument": "一对同性恋", "label": "non-hate", "binary_label": 0}
+{"id": 4187, "quad_index": 0, "target": "上海", "argument": "傲", "label": "Region", "binary_label": 1}
+{"id": 4555, "quad_index": 1, "target": "截图中的观点", "argument": "绝对化了", "label": "non-hate", "binary_label": 0}
+{"id": 2601, "quad_index": 0, "target": "同", "argument": "反同入刑，最高死刑", "label": "LGBTQ", "binary_label": 1}
+{"id": 1181, "quad_index": 0, "target": "你", "argument": "有主角光环", "label": "non-hate", "binary_label": 0}
+{"id": 315, "quad_index": 0, "target": "这个人", "argument": "眼神中充满了调侃", "label": "non-hate", "binary_label": 0}
+{"id": 1072, "quad_index": 0, "target": "河南人", "argument": "在我们北方名声真的很差", "label": "Region", "binary_label": 1}
+{"id": 1150, "quad_index": 1, "target": "吴语区人民", "argument": "瑟瑟发抖", "label": "Region", "binary_label": 1}
+{"id": 2455, "quad_index": 0, "target": "楼主", "argument": "圈子太小", "label": "non-hate", "binary_label": 0}
+{"id": 7804, "quad_index": 0, "target": "你", "argument": "说这话脸不会红吗", "label": "non-hate", "binary_label": 0}
+{"id": 4790, "quad_index": 0, "target": "昆仑奴", "argument": "古代的昆仑奴，现在的昆仑👴🏻", "label": "Racism", "binary_label": 1}
+{"id": 2546, "quad_index": 0, "target": "普信男", "argument": "真下头", "label": "Sexism", "binary_label": 1}
+{"id": 372, "quad_index": 0, "target": "男人", "argument": "大度一点", "label": "non-hate", "binary_label": 0}
+{"id": 4122, "quad_index": 1, "target": "东北", "argument": "更差劲", "label": "Region", "binary_label": 1}
+{"id": 7632, "quad_index": 1, "target": "大部分宠物狗", "argument": "不敢这样做", "label": "non-hate", "binary_label": 0}
+{"id": 1718, "quad_index": 0, "target": "NULL", "argument": "就这还有人说“女人能顶半边天”", "label": "Sexism", "binary_label": 1}
+{"id": 3827, "quad_index": 0, "target": "女的", "argument": "被黑人强奸的逼的吗？", "label": "Sexism", "binary_label": 1}
+{"id": 1312, "quad_index": 0, "target": "江苏兄弟", "argument": "感谢江苏兄弟为老家打CALL", "label": "non-hate", "binary_label": 0}
+{"id": 2441, "quad_index": 0, "target": "男权", "argument": "最大的错误就是现在就反击了", "label": "Sexism", "binary_label": 1}
+{"id": 3319, "quad_index": 0, "target": "同", "argument": "反同二局的", "label": "LGBTQ", "binary_label": 1}
+{"id": 1271, "quad_index": 1, "target": "南方系", "argument": "既黑北方也黑江浙沪，最擅长的是挑拨北方和长江流域互撕", "label": "Region", "binary_label": 1}
+{"id": 6228, "quad_index": 1, "target": "女拳打的世界", "argument": "和我认知的不太一样", "label": "non-hate", "binary_label": 0}
+{"id": 4369, "quad_index": 0, "target": "那个华夏", "argument": "经常挑拨地狱对立", "label": "Region", "binary_label": 1}
+{"id": 7864, "quad_index": 0, "target": "那个吧", "argument": "真恶心?", "label": "non-hate", "binary_label": 0}
+{"id": 4525, "quad_index": 0, "target": "黑人", "argument": "自己都不看", "label": "non-hate", "binary_label": 0}
+{"id": 3617, "quad_index": 0, "target": "她", "argument": "红警蓝天是什么关系？", "label": "non-hate", "binary_label": 0}
+{"id": 5392, "quad_index": 0, "target": "n哥", "argument": "没有爹", "label": "Racism", "binary_label": 1}
+{"id": 5945, "quad_index": 0, "target": "成都人", "argument": "做的事与四川无关", "label": "non-hate", "binary_label": 0}
+{"id": 3502, "quad_index": 0, "target": "女性", "argument": "地位下降", "label": "Sexism", "binary_label": 1}
+{"id": 5408, "quad_index": 0, "target": "幕刃", "argument": "是这样的", "label": "Sexism", "binary_label": 1}
+{"id": 491, "quad_index": 0, "target": "女拳", "argument": "反女拳反到底", "label": "Sexism", "binary_label": 1}
+{"id": 6610, "quad_index": 0, "target": "黑人在中国玩过的女人", "argument": "不要太多好吗？", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 1778, "quad_index": 0, "target": "黑人", "argument": "没听说也没看见哪个女生和黑人谈恋爱😅", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 4942, "quad_index": 0, "target": "和黑人好的女人", "argument": "脑子有毛病，智力有问题", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 1004, "quad_index": 0, "target": "她", "argument": "不违法和我讨不讨厌有关？", "label": "non-hate", "binary_label": 0}
+{"id": 5938, "quad_index": 0, "target": "猩猩", "argument": "人和猩猩平等", "label": "Racism", "binary_label": 1}
+{"id": 4246, "quad_index": 0, "target": "锅钕", "argument": "又装男的自我高潮了😅", "label": "Sexism", "binary_label": 1}
+{"id": 4856, "quad_index": 0, "target": "我", "argument": "拒绝过的女人超多三位数", "label": "non-hate", "binary_label": 0}
+{"id": 1195, "quad_index": 1, "target": "黑人", "argument": "看不起黄种人的占大多数", "label": "Racism", "binary_label": 1}
+{"id": 2672, "quad_index": 0, "target": "微博豆瓣", "argument": "不管吧", "label": "non-hate", "binary_label": 0}
+{"id": 3328, "quad_index": 0, "target": "妈宝女", "argument": "真下头", "label": "Sexism", "binary_label": 1}
+{"id": 1505, "quad_index": 0, "target": "她们", "argument": "立即开启印度模式省得她们作", "label": "Region, Sexism", "binary_label": 1}
+{"id": 3944, "quad_index": 1, "target": "同", "argument": "化同为敌", "label": "LGBTQ", "binary_label": 1}
+{"id": 40, "quad_index": 1, "target": "娶了黑人，白人或者越南人的男性", "argument": "很少见他们被排斥", "label": "non-hate", "binary_label": 0}
+{"id": 1789, "quad_index": 1, "target": "上海人", "argument": "并不是很歧视北方，他们只是歧视外地", "label": "Region", "binary_label": 1}
+{"id": 2571, "quad_index": 0, "target": "官司", "argument": "打赢了么", "label": "non-hate", "binary_label": 0}
+{"id": 7625, "quad_index": 0, "target": "女拳", "argument": "女拳的活性转然后买抖+推给女拳粉丝炸鱼", "label": "Sexism", "binary_label": 1}
+{"id": 5380, "quad_index": 1, "target": "欧洲", "argument": "把我们送进联合国", "label": "non-hate", "binary_label": 0}
+{"id": 5372, "quad_index": 1, "target": "国楠", "argument": "木有参与", "label": "Sexism", "binary_label": 1}
+{"id": 276, "quad_index": 0, "target": "原住民", "argument": "可以爬了", "label": "Racism", "binary_label": 1}
+{"id": 7808, "quad_index": 0, "target": "你", "argument": "一炮给你轰印度打拳去", "label": "Sexism", "binary_label": 1}
+{"id": 5, "quad_index": 0, "target": "很多女人", "argument": "天天被家暴，被揍得鼻青脸肿什么似的，到处抱怨自己的不幸，但就是不离婚", "label": "Sexism", "binary_label": 1}
+{"id": 3009, "quad_index": 0, "target": "基佬", "argument": "还能讲话吗", "label": "LGBTQ", "binary_label": 1}
+{"id": 1973, "quad_index": 0, "target": "东北人", "argument": "假冒云贵川", "label": "Region", "binary_label": 1}
+{"id": 355, "quad_index": 0, "target": "欧美学术界，媒体", "argument": "早就被白左渗透丑了", "label": "Region", "binary_label": 1}
+{"id": 3585, "quad_index": 0, "target": "这种东西都能照做的", "argument": "不知道是没脊椎还是没脑子", "label": "others", "binary_label": 1}
+{"id": 1369, "quad_index": 0, "target": "有人", "argument": "乱带节奏", "label": "non-hate", "binary_label": 0}
+{"id": 294, "quad_index": 1, "target": "男人", "argument": "身体魅力好不好只有正常的女人才知道", "label": "Sexism", "binary_label": 1}
+{"id": 5558, "quad_index": 0, "target": "国女", "argument": "找黑人约p，找国男接盘🤣", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 4533, "quad_index": 0, "target": "粿籹", "argument": "直接枪毙", "label": "Sexism", "binary_label": 1}
+{"id": 2234, "quad_index": 0, "target": "答主", "argument": "是不是有些难过啊", "label": "non-hate", "binary_label": 0}
+{"id": 2329, "quad_index": 1, "target": "印度非洲", "argument": "我也是这个看法", "label": "Region", "binary_label": 1}
+{"id": 949, "quad_index": 0, "target": "广西", "argument": "风景棒🐮", "label": "non-hate", "binary_label": 0}
+{"id": 3788, "quad_index": 1, "target": "这黑", "argument": "得了便宜卖乖", "label": "Racism", "binary_label": 1}
+{"id": 4482, "quad_index": 0, "target": "锅籹", "argument": "太容易跳脚了", "label": "Sexism", "binary_label": 1}
+{"id": 7706, "quad_index": 0, "target": "这个", "argument": "一个狗", "label": "non-hate", "binary_label": 0}
+{"id": 997, "quad_index": 0, "target": "女王培训班", "argument": "一个性质", "label": "non-hate", "binary_label": 0}
+{"id": 3583, "quad_index": 0, "target": "NULL", "argument": "表面相让实则pua规训及精神打压", "label": "Sexism", "binary_label": 1}
+{"id": 4719, "quad_index": 0, "target": "舔狗", "argument": "没有任何一个舔狗值得可怜", "label": "Sexism", "binary_label": 1}
+{"id": 3596, "quad_index": 0, "target": "赤色利维坦", "argument": "坏事做尽", "label": "others", "binary_label": 1}
+{"id": 6995, "quad_index": 0, "target": "男人们", "argument": "没有权力反对你做什么，但可以选择自己做什么", "label": "non-hate", "binary_label": 0}
+{"id": 2958, "quad_index": 0, "target": "东北", "argument": "压根不关心这个地方，何来黑.....", "label": "non-hate", "binary_label": 0}
+{"id": 4915, "quad_index": 1, "target": "当地的女朋友", "argument": "比你这种好看千倍", "label": "Sexism", "binary_label": 1}
+{"id": 4452, "quad_index": 0, "target": "我室友", "argument": "四川人", "label": "non-hate", "binary_label": 0}
+{"id": 5307, "quad_index": 0, "target": "我", "argument": "歧视白人和黑人", "label": "Racism", "binary_label": 1}
+{"id": 6002, "quad_index": 0, "target": "女人", "argument": "没用", "label": "Sexism", "binary_label": 1}
+{"id": 4575, "quad_index": 0, "target": "这个国家", "argument": "为啥不并入意大利", "label": "non-hate", "binary_label": 0}
+{"id": 2985, "quad_index": 0, "target": "az病", "argument": "美国传来的", "label": "Racism, others", "binary_label": 1}
+{"id": 5138, "quad_index": 0, "target": "日本人", "argument": "啥都没有", "label": "Region", "binary_label": 1}
+{"id": 2823, "quad_index": 0, "target": "小仙女", "argument": "先喝", "label": "Sexism", "binary_label": 1}
+{"id": 2845, "quad_index": 0, "target": "寄生虫", "argument": "只会吸食，繁殖，破坏", "label": "Racism", "binary_label": 1}
+{"id": 4212, "quad_index": 0, "target": "河南", "argument": "出几个人渣也是很有可能啊", "label": "non-hate", "binary_label": 0}
+{"id": 3298, "quad_index": 0, "target": "b站", "argument": "低龄化", "label": "others", "binary_label": 1}
+{"id": 5070, "quad_index": 1, "target": "吾", "argument": "与吾何干", "label": "non-hate", "binary_label": 0}
+{"id": 2884, "quad_index": 0, "target": "异性恋的恋童癖", "argument": "应该下地狱", "label": "others", "binary_label": 1}
+{"id": 6704, "quad_index": 0, "target": "NULL", "argument": "艾呀，梅关系，不会疣事的，概率为淋", "label": "others", "binary_label": 1}
+{"id": 7032, "quad_index": 0, "target": "同性恋", "argument": "最会道德绑架", "label": "LGBTQ", "binary_label": 1}
+{"id": 7146, "quad_index": 2, "target": "广东", "argument": "华夏发源地", "label": "Region", "binary_label": 1}
+{"id": 6794, "quad_index": 1, "target": "黑人", "argument": "鄙视", "label": "Racism", "binary_label": 1}
+{"id": 1665, "quad_index": 0, "target": "男生", "argument": "遇到渣男排挤有限", "label": "non-hate", "binary_label": 0}
+{"id": 4173, "quad_index": 0, "target": "郭楠", "argument": "无能狂怒", "label": "Sexism", "binary_label": 1}
+{"id": 6483, "quad_index": 0, "target": "浙江", "argument": "东越人种", "label": "non-hate", "binary_label": 0}
+{"id": 889, "quad_index": 0, "target": "doi", "argument": "是啥", "label": "non-hate", "binary_label": 0}
+{"id": 7184, "quad_index": 0, "target": "浙江", "argument": "你一定是嫉妒", "label": "Region", "binary_label": 1}
+{"id": 3185, "quad_index": 1, "target": "亩人", "argument": "除了怕，根本反抗不了", "label": "Sexism", "binary_label": 1}
+{"id": 6217, "quad_index": 0, "target": "小偷骗子", "argument": "有100多万个", "label": "non-hate", "binary_label": 0}
+{"id": 6051, "quad_index": 0, "target": "他", "argument": "享受集全吧宠爱于一身", "label": "non-hate", "binary_label": 0}
+{"id": 2299, "quad_index": 1, "target": "男性", "argument": "获胜受益的却不仅仅是男性", "label": "non-hate", "binary_label": 0}
+{"id": 826, "quad_index": 0, "target": "异性恋", "argument": "我也没因为吴亦凡是异性恋就讨厌所有异性恋啊🤔", "label": "non-hate", "binary_label": 0}
+{"id": 7480, "quad_index": 0, "target": "她", "argument": "手和脚特别好看", "label": "non-hate", "binary_label": 0}
+{"id": 7325, "quad_index": 2, "target": "黑人", "argument": "能喝点汤", "label": "Racism", "binary_label": 1}
+{"id": 1629, "quad_index": 0, "target": "同性恋", "argument": "我是无法接受同性恋的，当然，我家人更不可能会支持", "label": "LGBTQ", "binary_label": 1}
+{"id": 3592, "quad_index": 0, "target": "在一些聊天交友软件，或者游戏里装成女的", "argument": "骗舔狗的钱", "label": "Sexism", "binary_label": 1}
+{"id": 2800, "quad_index": 1, "target": "同性恋", "argument": "不敬不孝不仁不义", "label": "LGBTQ", "binary_label": 1}
+{"id": 4886, "quad_index": 0, "target": "白人", "argument": "已经输了", "label": "non-hate", "binary_label": 0}
+{"id": 1150, "quad_index": 0, "target": "吴语区", "argument": "就不配说自个这地被黑", "label": "Region", "binary_label": 1}
+{"id": 4916, "quad_index": 0, "target": "知乎", "argument": "连评论区都出现啥对立", "label": "non-hate", "binary_label": 0}
+{"id": 2948, "quad_index": 2, "target": "安徽", "argument": "土地红线比例高达%75", "label": "non-hate", "binary_label": 0}
+{"id": 3093, "quad_index": 0, "target": "他们", "argument": "想上吗？", "label": "non-hate", "binary_label": 0}
+{"id": 7563, "quad_index": 0, "target": "女人", "argument": "妄图和女人讲道理", "label": "Sexism", "binary_label": 1}
+{"id": 6858, "quad_index": 0, "target": "这头发", "argument": "不会长虱子吗", "label": "Racism", "binary_label": 1}
+{"id": 3509, "quad_index": 0, "target": "白人", "argument": "对它们隔离", "label": "non-hate", "binary_label": 0}
+{"id": 2660, "quad_index": 1, "target": "你拔拔", "argument": "是1", "label": "LGBTQ", "binary_label": 1}
+{"id": 1367, "quad_index": 0, "target": "外国女性", "argument": "为什么网上那么多支持外国女性进口的...", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 310, "quad_index": 0, "target": "广大普通女性", "argument": "若是靠近普信男，会不幸", "label": "Sexism", "binary_label": 1}
+{"id": 7888, "quad_index": 0, "target": "作者", "argument": "专业打拳的", "label": "non-hate", "binary_label": 0}
+{"id": 6013, "quad_index": 0, "target": "歪果人", "argument": "永居我尽力了", "label": "Racism", "binary_label": 1}
+{"id": 5814, "quad_index": 0, "target": "日子", "argument": "不要太潇洒", "label": "non-hate", "binary_label": 0}
+{"id": 1786, "quad_index": 1, "target": "跟后头闹事儿的", "argument": "就无辜？", "label": "non-hate", "binary_label": 0}
+{"id": 7086, "quad_index": 1, "target": "非洲", "argument": "有很多的传染病", "label": "Region", "binary_label": 1}
+{"id": 3756, "quad_index": 0, "target": "女性朋友", "argument": "如果一天醒来发现你以为的好的女性朋友在刚你，就不会厌恶了吗", "label": "Sexism", "binary_label": 1}
+{"id": 5299, "quad_index": 0, "target": "东北", "argument": "大家都这么爱黑东北😅", "label": "Region", "binary_label": 1}
+{"id": 5288, "quad_index": 0, "target": "艾滋病毒", "argument": "还没解决", "label": "non-hate", "binary_label": 0}
+{"id": 2080, "quad_index": 0, "target": "骗婚gay", "argument": "不能接受", "label": "LGBTQ, others", "binary_label": 1}
+{"id": 1366, "quad_index": 0, "target": "蝈籹", "argument": "内卷也有一手", "label": "Sexism", "binary_label": 1}
+{"id": 4072, "quad_index": 1, "target": "美国佬小日本", "argument": "见不得中国好", "label": "Region", "binary_label": 1}
+{"id": 6459, "quad_index": 1, "target": "低温", "argument": "楞抢的这种", "label": "non-hate", "binary_label": 0}
+{"id": 1744, "quad_index": 0, "target": "这个垃圾", "argument": "黑杂子", "label": "Racism", "binary_label": 1}
+{"id": 6633, "quad_index": 0, "target": "你", "argument": "别拖家带口地留在中国", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 2345, "quad_index": 0, "target": "女拳师们", "argument": "速来挨骂😆😆", "label": "Sexism", "binary_label": 1}
+{"id": 723, "quad_index": 0, "target": "某些直男", "argument": "双标", "label": "LGBTQ", "binary_label": 1}
+{"id": 1038, "quad_index": 1, "target": "黑人", "argument": "暴行", "label": "Racism", "binary_label": 1}
+{"id": 7838, "quad_index": 0, "target": "无耻的学校领导", "argument": "也不为自己后代积点阴德", "label": "non-hate", "binary_label": 0}
+{"id": 4834, "quad_index": 0, "target": "索玛女王", "argument": "专门收国外的钱，然后挑拨国内性别对立", "label": "Sexism", "binary_label": 1}
+{"id": 79, "quad_index": 0, "target": "陕西爷基佬", "argument": "死于艾", "label": "LGBTQ, Region, others", "binary_label": 1}
+{"id": 7751, "quad_index": 0, "target": "这肥猪", "argument": "恶心", "label": "non-hate", "binary_label": 0}
+{"id": 5357, "quad_index": 0, "target": "男同", "argument": "欧美大规模艾滋病成灾", "label": "LGBTQ, others", "binary_label": 1}
+{"id": 2555, "quad_index": 0, "target": "黒入", "argument": "性格畸形，并且潜意识里有**的性癖好", "label": "Racism", "binary_label": 1}
+{"id": 7914, "quad_index": 0, "target": "这种人", "argument": "弱智", "label": "non-hate", "binary_label": 0}
+{"id": 4138, "quad_index": 0, "target": "楼主", "argument": "苏北的", "label": "non-hate", "binary_label": 0}
+{"id": 4742, "quad_index": 0, "target": "江南侉音", "argument": "非宁镇莫属😆", "label": "non-hate", "binary_label": 0}
+{"id": 2981, "quad_index": 0, "target": "内卷", "argument": "就越来越有六镇起义那味道了", "label": "non-hate", "binary_label": 0}
+{"id": 3938, "quad_index": 1, "target": "白男", "argument": "炼铜猎奇居多", "label": "LGBTQ, Sexism, Racism", "binary_label": 1}
+{"id": 2943, "quad_index": 0, "target": "男人", "argument": "牲口", "label": "Sexism", "binary_label": 1}
+{"id": 7147, "quad_index": 0, "target": "有些男的", "argument": "可以分分钟买的", "label": "non-hate", "binary_label": 0}
+{"id": 4353, "quad_index": 0, "target": "她", "argument": "放在没有女拳的时代我们可以浸她猪笼", "label": "Sexism", "binary_label": 1}
+{"id": 7745, "quad_index": 0, "target": "你们", "argument": "少往自己脸上贴金", "label": "non-hate", "binary_label": 0}
+{"id": 5895, "quad_index": 0, "target": "甘肃人", "argument": "躺地流泪", "label": "non-hate", "binary_label": 0}
+{"id": 7701, "quad_index": 0, "target": "你的资本", "argument": "身后挺你的那帮人穷志不穷的兄弟", "label": "non-hate", "binary_label": 0}
+{"id": 6255, "quad_index": 0, "target": "革命的首要问题", "argument": "谁是敌人，谁是朋友", "label": "non-hate", "binary_label": 0}
+{"id": 1257, "quad_index": 0, "target": "我", "argument": "老实人", "label": "non-hate", "binary_label": 0}
+{"id": 5456, "quad_index": 0, "target": "资本", "argument": "为了利益恶意宣传不择手段", "label": "others", "binary_label": 1}
+{"id": 5297, "quad_index": 0, "target": "西安", "argument": "本地都是河南人", "label": "non-hate", "binary_label": 0}
+{"id": 922, "quad_index": 1, "target": "网左", "argument": "只会哔哔赖赖从不认真动手", "label": "others", "binary_label": 1}
+{"id": 6648, "quad_index": 0, "target": "吧里的基佬们", "argument": "早生贵滋", "label": "LGBTQ, others", "binary_label": 1}
+{"id": 4732, "quad_index": 0, "target": "种族主义者", "argument": "不是错的", "label": "Racism", "binary_label": 1}
+{"id": 1057, "quad_index": 0, "target": "她们", "argument": "一群没人要三无妇女。无钱，无色，无品", "label": "Sexism", "binary_label": 1}
+{"id": 3299, "quad_index": 0, "target": "中国", "argument": "最好还是不要留在中国", "label": "Racism", "binary_label": 1}
+{"id": 4880, "quad_index": 0, "target": "她们", "argument": "房子和彩礼准备好了嘛？", "label": "non-hate", "binary_label": 0}
+{"id": 3479, "quad_index": 0, "target": "NULL", "argument": "哪怕找个驴呢", "label": "Sexism", "binary_label": 1}
+{"id": 4802, "quad_index": 0, "target": "退休金医保这种切切实实的福利", "argument": "取决于在哪个口工作", "label": "non-hate", "binary_label": 0}
+{"id": 1893, "quad_index": 0, "target": "敌我", "argument": "一时间敌我如此相仿", "label": "non-hate", "binary_label": 0}
+{"id": 4936, "quad_index": 0, "target": "你", "argument": "侮辱我们的同胞", "label": "others", "binary_label": 1}
+{"id": 111, "quad_index": 0, "target": "阿姨女士", "argument": "结了婚叫声阿姨女士不过分吧", "label": "Sexism", "binary_label": 1}
+{"id": 3940, "quad_index": 0, "target": "猪肉", "argument": "真香😆😆😆", "label": "Region, others", "binary_label": 1}
+{"id": 3901, "quad_index": 0, "target": "人", "argument": "垃圾灵魂", "label": "others", "binary_label": 1}
+{"id": 771, "quad_index": 1, "target": "另外三个", "argument": "默孝子", "label": "Racism", "binary_label": 1}
+{"id": 2008, "quad_index": 0, "target": "炫耀自己掰歪直男的基佬", "argument": "简直口区", "label": "LGBTQ", "binary_label": 1}
+{"id": 2837, "quad_index": 0, "target": "黑人问题类贴吧", "argument": "拿可笑的种族歧视当理由举", "label": "Racism", "binary_label": 1}
+{"id": 716, "quad_index": 0, "target": "男女平等", "argument": "笑话", "label": "non-hate", "binary_label": 0}
+{"id": 7107, "quad_index": 0, "target": "河南人和东北人", "argument": "都很闲？", "label": "non-hate", "binary_label": 0}
+{"id": 631, "quad_index": 0, "target": "小黑皮", "argument": "恶心", "label": "Racism", "binary_label": 1}
+{"id": 164, "quad_index": 0, "target": "幕刃", "argument": "讲的不是汉语是亩语", "label": "Sexism", "binary_label": 1}
+{"id": 5089, "quad_index": 0, "target": "这几个地方的鸟人", "argument": "优越感贼强", "label": "Region", "binary_label": 1}
+{"id": 849, "quad_index": 0, "target": "厌女症和厌男症", "argument": "不都一个性质的吗都是有理由存在的", "label": "non-hate", "binary_label": 0}
+{"id": 6791, "quad_index": 1, "target": "她们的后代", "argument": "退化成各种怪物", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 5788, "quad_index": 0, "target": "黑人", "argument": "艾滋病", "label": "Racism, others", "binary_label": 1}
+{"id": 2988, "quad_index": 0, "target": "国钕", "argument": "谈贡献就要开始弱者表演，享受好处就要平分", "label": "Sexism", "binary_label": 1}
+{"id": 5038, "quad_index": 1, "target": "婊们", "argument": "自掏腰包去求来的", "label": "Sexism", "binary_label": 1}
+{"id": 3057, "quad_index": 0, "target": "山东", "argument": "这几年被黑的最多", "label": "non-hate", "binary_label": 0}
+{"id": 4559, "quad_index": 1, "target": "他们", "argument": "咱就是看不惯", "label": "Racism", "binary_label": 1}
+{"id": 2801, "quad_index": 0, "target": "南满", "argument": "黑河南、黑北方", "label": "Region", "binary_label": 1}
+{"id": 8015, "quad_index": 0, "target": "你", "argument": "清朝老僵尸", "label": "non-hate", "binary_label": 0}
+{"id": 6962, "quad_index": 0, "target": "同性恋", "argument": "异性恋不需要被认可同性恋就要？", "label": "LGBTQ", "binary_label": 1}
+{"id": 7242, "quad_index": 0, "target": "理中客和鉴权♂", "argument": "早该砸砸了", "label": "Sexism, others", "binary_label": 1}
+{"id": 3080, "quad_index": 0, "target": "中国女人", "argument": "名声在国际上都烂透了", "label": "Sexism", "binary_label": 1}
+{"id": 7573, "quad_index": 0, "target": "河北", "argument": "太惨了吧", "label": "non-hate", "binary_label": 0}
+{"id": 2129, "quad_index": 0, "target": "同性恋群体", "argument": "只是单纯的反感他们，讨厌他们，歧视他们", "label": "LGBTQ", "binary_label": 1}
+{"id": 1876, "quad_index": 0, "target": "NULL", "argument": "🤭在自己家乡说方言算排外", "label": "Region", "binary_label": 1}
+{"id": 3400, "quad_index": 0, "target": "仙女", "argument": "魅力时刻", "label": "non-hate", "binary_label": 0}
+{"id": 7260, "quad_index": 0, "target": "畒勾", "argument": "最喜欢便宜卖乖了", "label": "Sexism", "binary_label": 1}
+{"id": 5869, "quad_index": 1, "target": "黑人", "argument": "让一颗老鼠屎坏了一锅汤", "label": "Racism", "binary_label": 1}
+{"id": 4574, "quad_index": 0, "target": "大张伟", "argument": "《阳光彩虹小白马》我最喜欢的歌", "label": "Racism", "binary_label": 1}
+{"id": 3374, "quad_index": 0, "target": "H人", "argument": "她感染艾滋病的概率基本上100%", "label": "Sexism, Racism, others", "binary_label": 1}
+{"id": 4754, "quad_index": 0, "target": "女权", "argument": "小肚鸡肠", "label": "Sexism", "binary_label": 1}
+{"id": 300, "quad_index": 0, "target": "有些", "argument": "真的怕民族分裂，国家灭亡，种族替换", "label": "non-hate", "binary_label": 0}
+{"id": 3208, "quad_index": 0, "target": "外国人", "argument": "你见过中国的精英男找外国女的吗？", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 4165, "quad_index": 0, "target": "肤色", "argument": "显性基因", "label": "non-hate", "binary_label": 0}
+{"id": 2971, "quad_index": 0, "target": "东北", "argument": "真的实惨", "label": "non-hate", "binary_label": 0}
+{"id": 1637, "quad_index": 0, "target": "上海", "argument": "经济好吧，还不是照样黑", "label": "Region", "binary_label": 1}
+{"id": 1271, "quad_index": 0, "target": "广州", "argument": "在知乎只有吹捧没有黑", "label": "Region", "binary_label": 1}
+{"id": 3961, "quad_index": 1, "target": "中国那些没有爹的小黑", "argument": "也觉得😄", "label": "Region, Racism", "binary_label": 1}
+{"id": 2905, "quad_index": 0, "target": "郭楠", "argument": "这待遇郭楠可以有吗？", "label": "Sexism", "binary_label": 1}
+{"id": 1426, "quad_index": 0, "target": "某些人", "argument": "我怀疑某些人其实是对面卧底", "label": "non-hate", "binary_label": 0}
+{"id": 2092, "quad_index": 0, "target": "这些黑人", "argument": "祸害在中国", "label": "Racism", "binary_label": 1}
+{"id": 3549, "quad_index": 0, "target": "世卫", "argument": "露出猩猩面目了", "label": "others", "binary_label": 1}
+{"id": 6797, "quad_index": 0, "target": "兄弟", "argument": "自相残杀", "label": "non-hate", "binary_label": 0}
+{"id": 5975, "quad_index": 0, "target": "女权", "argument": "女权恶行，野火烧不尽，春风吹又生。", "label": "Sexism", "binary_label": 1}
+{"id": 318, "quad_index": 0, "target": "你的虫爹", "argument": "把曾经白人建设无比繁荣辉煌南非毁了同时又跑到这来大谈引进国际鬼子虫类及其它们后代虫混的理由", "label": "Racism", "binary_label": 1}
+{"id": 4895, "quad_index": 0, "target": "黑人农奴", "argument": "都卖去美洲", "label": "Racism", "binary_label": 1}
+{"id": 2202, "quad_index": 0, "target": "山东人", "argument": "骂的最狠的还是山东人自己🤣", "label": "non-hate", "binary_label": 0}
+{"id": 7158, "quad_index": 0, "target": "娶黑皮女生的小孩", "argument": "就是中国人了？", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 2326, "quad_index": 0, "target": "批判的武器", "argument": "不能替代武器的批判", "label": "non-hate", "binary_label": 0}
+{"id": 1406, "quad_index": 0, "target": "赵叔", "argument": "谢谢赵叔带来的最新资料", "label": "non-hate", "binary_label": 0}
+{"id": 6529, "quad_index": 0, "target": "上海人", "argument": "心眼都不咋好😄", "label": "Region", "binary_label": 1}
+{"id": 2316, "quad_index": 0, "target": "同性恋", "argument": "基因里带着的", "label": "non-hate", "binary_label": 0}
+{"id": 5130, "quad_index": 2, "target": "美颜化妆同时用都救不了的", "argument": "建议舔狗马上娶了她", "label": "Sexism", "binary_label": 1}
+{"id": 6838, "quad_index": 0, "target": "外国美妞", "argument": "找你幻想中的外国美妞去", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 6531, "quad_index": 0, "target": "白人", "argument": "接受不了", "label": "Racism", "binary_label": 1}
+{"id": 151, "quad_index": 0, "target": "她们", "argument": "中国人的脸都被她们丢尽了", "label": "Sexism", "binary_label": 1}
+{"id": 7192, "quad_index": 0, "target": "女厕所", "argument": "什么女厕所", "label": "Sexism", "binary_label": 1}
+{"id": 5763, "quad_index": 0, "target": "gay", "argument": "歧视", "label": "LGBTQ", "binary_label": 1}
+{"id": 2724, "quad_index": 0, "target": "过激的言论", "argument": "系统会自动删的", "label": "non-hate", "binary_label": 0}
+{"id": 595, "quad_index": 0, "target": "我", "argument": "那几个回答每个都有两百多条吧", "label": "non-hate", "binary_label": 0}
+{"id": 1424, "quad_index": 0, "target": "你", "argument": "要认为合适就大大方方的告诉你老公嘛", "label": "non-hate", "binary_label": 0}
+{"id": 7753, "quad_index": 0, "target": "这B", "argument": "浸猪笼", "label": "non-hate", "binary_label": 0}
+{"id": 3122, "quad_index": 0, "target": "犯罪预备军", "argument": "丑", "label": "non-hate", "binary_label": 0}
+{"id": 7475, "quad_index": 0, "target": "母狗", "argument": "洗衣机她家的？", "label": "Sexism", "binary_label": 1}
+{"id": 5349, "quad_index": 0, "target": "喜欢黑女的", "argument": "很少很少", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 30, "quad_index": 2, "target": "他们", "argument": "黑完安徽又选择黑河南", "label": "Region", "binary_label": 1}
+{"id": 1665, "quad_index": 1, "target": "部分女性", "argument": "为渣女洗涤", "label": "non-hate", "binary_label": 0}
+{"id": 1274, "quad_index": 0, "target": "评论区", "argument": "简直是直言不讳", "label": "non-hate", "binary_label": 0}
+{"id": 5996, "quad_index": 0, "target": "直佬", "argument": "瓜真是太香了", "label": "LGBTQ", "binary_label": 1}
+{"id": 3506, "quad_index": 1, "target": "黑人", "argument": "和中国妻子在街上走，而且是带小孩的那种。具体哪个地方不说了", "label": "Region, Racism", "binary_label": 1}
+{"id": 6181, "quad_index": 0, "target": "银监会", "argument": "再投诉一遍", "label": "non-hate", "binary_label": 0}
+{"id": 2969, "quad_index": 0, "target": "平权男同", "argument": "支持", "label": "non-hate", "binary_label": 0}
+{"id": 5918, "quad_index": 0, "target": "江浙", "argument": "被搞得方言都讲不了了", "label": "Region", "binary_label": 1}
+{"id": 3996, "quad_index": 0, "target": "幕狗", "argument": "自己买车差点忘了", "label": "Sexism", "binary_label": 1}
+{"id": 665, "quad_index": 0, "target": "南北交界处，苏北，安徽，河南等", "argument": "素质最差被黑的最厉害的", "label": "Region", "binary_label": 1}
+{"id": 6757, "quad_index": 0, "target": "你", "argument": "相信自己是人", "label": "non-hate", "binary_label": 0}
+{"id": 673, "quad_index": 0, "target": "黑女", "argument": "我宁愿娶个三婚带二孩也接受不了黑女", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 2300, "quad_index": 0, "target": "某些人", "argument": "戳到了某些人的痛点", "label": "non-hate", "binary_label": 0}
+{"id": 7030, "quad_index": 0, "target": "女方", "argument": "被抓了", "label": "non-hate", "binary_label": 0}
+{"id": 1932, "quad_index": 0, "target": "安徽", "argument": "存在感不高", "label": "Region", "binary_label": 1}
+{"id": 3715, "quad_index": 0, "target": "主动养黑男的女人", "argument": "倒贴", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 6486, "quad_index": 0, "target": "NULL", "argument": "艾呀，梅事的，疣什么大不了的，中奖几率为淋。", "label": "others", "binary_label": 1}
+{"id": 7073, "quad_index": 1, "target": "女人", "argument": "一般要经济条件更好的", "label": "Sexism", "binary_label": 1}
+{"id": 1911, "quad_index": 0, "target": "普信男", "argument": "都是这样低下", "label": "Sexism", "binary_label": 1}
+{"id": 6020, "quad_index": 0, "target": "NULL", "argument": "说的太对了", "label": "non-hate", "binary_label": 0}
+{"id": 6059, "quad_index": 0, "target": "黑混", "argument": "越来越多", "label": "Racism", "binary_label": 1}
+{"id": 3436, "quad_index": 0, "target": "她", "argument": "乱带节奏", "label": "non-hate", "binary_label": 0}
+{"id": 5340, "quad_index": 0, "target": "中国有少量女人", "argument": "随她们去吧", "label": "non-hate", "binary_label": 0}
+{"id": 7045, "quad_index": 0, "target": "沙滩", "argument": "响起了警报", "label": "non-hate", "binary_label": 0}
+{"id": 6873, "quad_index": 0, "target": "荷兰喷子", "argument": "恶意地域攻击", "label": "Region", "binary_label": 1}
+{"id": 593, "quad_index": 0, "target": "大户人家", "argument": "我没意见", "label": "non-hate", "binary_label": 0}
+{"id": 7056, "quad_index": 0, "target": "你", "argument": "能上porn？", "label": "non-hate", "binary_label": 0}
+{"id": 539, "quad_index": 0, "target": "江浙沪", "argument": "焊奸多", "label": "Region", "binary_label": 1}
+{"id": 1623, "quad_index": 0, "target": "河南人", "argument": "我确实在河南人身上吃过亏😅", "label": "Region", "binary_label": 1}
+{"id": 7053, "quad_index": 0, "target": "你", "argument": "随意", "label": "non-hate", "binary_label": 0}
+{"id": 4266, "quad_index": 0, "target": "拳师", "argument": "往4里喷", "label": "Sexism", "binary_label": 1}
+{"id": 4837, "quad_index": 0, "target": "嘿砸肿", "argument": "本身就不该存在", "label": "Racism", "binary_label": 1}
+{"id": 4065, "quad_index": 1, "target": "个别人", "argument": "愿意冒着艾滋等风险搞黑妞", "label": "Sexism, Racism, others", "binary_label": 1}
+{"id": 5774, "quad_index": 1, "target": "女女", "argument": "小部分也很乱", "label": "non-hate", "binary_label": 0}
+{"id": 4008, "quad_index": 0, "target": "女子", "argument": "坚称骗子是“富二代”", "label": "Sexism", "binary_label": 1}
+{"id": 6908, "quad_index": 0, "target": "外地人", "argument": "关你个外地人什么事", "label": "Region", "binary_label": 1}
+{"id": 440, "quad_index": 0, "target": "这里的言论", "argument": "有点逆天", "label": "non-hate", "binary_label": 0}
+{"id": 7781, "quad_index": 0, "target": "这小傻瓜", "argument": "沉浸在愤怒的高潮中无法自拔😅", "label": "non-hate", "binary_label": 0}
+{"id": 6975, "quad_index": 0, "target": "标题", "argument": "贼恶心，一股子洋洋自得的意味", "label": "non-hate", "binary_label": 0}
+{"id": 2217, "quad_index": 0, "target": "四川媒体", "argument": "黑其他地方也不少", "label": "Region", "binary_label": 1}
+{"id": 6340, "quad_index": 0, "target": "我", "argument": "对你道歉", "label": "non-hate", "binary_label": 0}
+{"id": 835, "quad_index": 0, "target": "国内的女拳", "argument": "忽悠别人终身不婚，忽悠别人单亲养子🤭", "label": "Sexism", "binary_label": 1}
+{"id": 2886, "quad_index": 1, "target": "我们温和男权", "argument": "不干这种事", "label": "non-hate", "binary_label": 0}
+{"id": 3793, "quad_index": 0, "target": "我", "argument": "也会脱皮", "label": "non-hate", "binary_label": 0}
+{"id": 4393, "quad_index": 0, "target": "人", "argument": "越来越傻", "label": "non-hate", "binary_label": 0}
+{"id": 1631, "quad_index": 0, "target": "黑人", "argument": "土地肥沃，却解决不了温饱问题", "label": "Racism", "binary_label": 1}
+{"id": 7749, "quad_index": 0, "target": "这样的校领导", "argument": "不会有后代", "label": "non-hate", "binary_label": 0}
+{"id": 4495, "quad_index": 0, "target": "抗联", "argument": "充分反驳了“东北军民不曾反抗”的荒谬观点", "label": "non-hate", "binary_label": 0}
+{"id": 7419, "quad_index": 0, "target": "艾滋病", "argument": "黑皮搞出来的", "label": "Racism, others", "binary_label": 1}
+{"id": 4681, "quad_index": 0, "target": "南方沿海", "argument": "主要指福建广东广西海南", "label": "non-hate", "binary_label": 0}
+{"id": 6879, "quad_index": 0, "target": "她", "argument": "不会再想有任何交集", "label": "non-hate", "binary_label": 0}
+{"id": 6780, "quad_index": 1, "target": "老外", "argument": "来中国路访随机索要100个吻轻轻松松", "label": "Racism, Sexism", "binary_label": 1}
+{"id": 1270, "quad_index": 0, "target": "我", "argument": "想联系韩台男", "label": "non-hate", "binary_label": 0}
+{"id": 1747, "quad_index": 1, "target": "美国", "argument": "将是第三个", "label": "Region, Racism", "binary_label": 1}
+{"id": 3365, "quad_index": 0, "target": "男同", "argument": "骗婚", "label": "LGBTQ", "binary_label": 1}
+{"id": 7273, "quad_index": 1, "target": "黑色的永恒族使者", "argument": "在哪里", "label": "Racism", "binary_label": 1}
+{"id": 6017, "quad_index": 0, "target": "中国人", "argument": "可怕", "label": "non-hate", "binary_label": 0}
+{"id": 5857, "quad_index": 0, "target": "人多", "argument": "好", "label": "non-hate", "binary_label": 0}
+{"id": 4860, "quad_index": 0, "target": "黑人", "argument": "丑", "label": "Racism", "binary_label": 1}
+{"id": 3283, "quad_index": 0, "target": "16楼", "argument": "基佬", "label": "LGBTQ", "binary_label": 1}
+{"id": 5267, "quad_index": 0, "target": "母的", "argument": "不考虑", "label": "Sexism", "binary_label": 1}
+{"id": 6115, "quad_index": 0, "target": "它", "argument": "看看能不能生出个单细胞", "label": "Racism", "binary_label": 1}
+{"id": 6696, "quad_index": 0, "target": "直佬", "argument": "出轨直佬，我呸", "label": "LGBTQ", "binary_label": 1}
+{"id": 6308, "quad_index": 0, "target": "人造子宫", "argument": "因为阻力无法推行", "label": "non-hate", "binary_label": 0}
+{"id": 5898, "quad_index": 0, "target": "你", "argument": "少有的这么大度的", "label": "non-hate", "binary_label": 0}
+{"id": 2283, "quad_index": 0, "target": "你", "argument": "人家反同不对嘛？你在苟叫什么？", "label": "LGBTQ", "binary_label": 1}
+{"id": 6768, "quad_index": 0, "target": "女权", "argument": "宗教的王", "label": "Sexism", "binary_label": 1}
+{"id": 3810, "quad_index": 0, "target": "母豖", "argument": "天生会pua", "label": "Sexism", "binary_label": 1}
+{"id": 8004, "quad_index": 0, "target": "小畜生", "argument": "别碰人类", "label": "non-hate", "binary_label": 0}
+{"id": 3466, "quad_index": 0, "target": "男劳力", "argument": "把出大力的卖牲口广告换成男劳力你愿意吗？", "label": "Sexism", "binary_label": 1}
+{"id": 5222, "quad_index": 0, "target": "广东人", "argument": "长相文化被黑", "label": "Region", "binary_label": 1}
+{"id": 6543, "quad_index": 0, "target": "黑蛆", "argument": "动物", "label": "Racism", "binary_label": 1}
+{"id": 4428, "quad_index": 0, "target": "身体", "argument": "还是不错哒", "label": "non-hate", "binary_label": 0}
+{"id": 4842, "quad_index": 0, "target": "黑和同", "argument": "艾滋病的高发群体", "label": "LGBTQ, Racism, others", "binary_label": 1}
+{"id": 2968, "quad_index": 0, "target": "畒", "argument": "是这样的", "label": "Sexism", "binary_label": 1}
+{"id": 2750, "quad_index": 0, "target": "你", "argument": "连乐色都不如了", "label": "Racism", "binary_label": 1}
+{"id": 3196, "quad_index": 0, "target": "姆搐", "argument": "什么猎奇", "label": "Sexism", "binary_label": 1}
+{"id": 4685, "quad_index": 1, "target": "黑人", "argument": "这点和黑人出奇的一致", "label": "Racism", "binary_label": 1}
+{"id": 6614, "quad_index": 0, "target": "你", "argument": "展示你的基头", "label": "LGBTQ", "binary_label": 1}
+{"id": 982, "quad_index": 0, "target": "我们", "argument": "也一样啊", "label": "non-hate", "binary_label": 0}
+{"id": 3887, "quad_index": 0, "target": "这玩意", "argument": "男同nt搞出来的", "label": "LGBTQ", "binary_label": 1}
+{"id": 7717, "quad_index": 0, "target": "这头猪", "argument": "除了拉黑就是拉黑", "label": "non-hate", "binary_label": 0}
+{"id": 3769, "quad_index": 0, "target": "现在还想结婚的男人", "argument": "不是**，就是不差钱的土豪", "label": "Sexism", "binary_label": 1}
+{"id": 3936, "quad_index": 0, "target": "你", "argument": "上知乎", "label": "non-hate", "binary_label": 0}
+{"id": 2034, "quad_index": 0, "target": "你这种“高尚”的人", "argument": "还要搞性别歧视哦？", "label": "LGBTQ", "binary_label": 1}
+{"id": 3432, "quad_index": 0, "target": "后一张", "argument": "举报女拳的", "label": "Sexism", "binary_label": 1}
+{"id": 2118, "quad_index": 0, "target": "全嫁出去的", "argument": "至少剩下的脑子没那么奇怪", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 2732, "quad_index": 1, "target": "EG", "argument": "low到骨子里", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 986, "quad_index": 2, "target": "浙江卫视", "argument": "在北京浙江卫视都被骂成韩国卫视了，比韩国人都能抄", "label": "others", "binary_label": 1}
+{"id": 2637, "quad_index": 0, "target": "NULL", "argument": "反黑", "label": "Racism", "binary_label": 1}
+{"id": 6774, "quad_index": 0, "target": "高密", "argument": "养奸佞", "label": "non-hate", "binary_label": 0}
+{"id": 434, "quad_index": 0, "target": "河北", "argument": "真没存在感", "label": "Region", "binary_label": 1}
+{"id": 6153, "quad_index": 0, "target": "国女", "argument": "别看几个新闻就以为国女都媚黑了", "label": "non-hate", "binary_label": 0}
+{"id": 7500, "quad_index": 0, "target": "家乡", "argument": "对我来说没那么重要", "label": "non-hate", "binary_label": 0}
+{"id": 1212, "quad_index": 0, "target": "褐兰州", "argument": "哪里人最会偷", "label": "Region", "binary_label": 1}
+{"id": 7012, "quad_index": 0, "target": "同性恋", "argument": "恶心", "label": "LGBTQ", "binary_label": 1}
+{"id": 2918, "quad_index": 0, "target": "ltp基佬", "argument": "恶心", "label": "LGBTQ", "binary_label": 1}
+{"id": 706, "quad_index": 0, "target": "一个省", "argument": "饮食口味都不同", "label": "non-hate", "binary_label": 0}
+{"id": 6686, "quad_index": 0, "target": "家暴男", "argument": "上升到整体", "label": "Sexism", "binary_label": 1}
+{"id": 3519, "quad_index": 0, "target": "和女生相关违法问题", "argument": "女生问题", "label": "Sexism", "binary_label": 1}
+{"id": 5180, "quad_index": 0, "target": "侏儒", "argument": "不许歧视她捉弄她", "label": "non-hate", "binary_label": 0}
+{"id": 7605, "quad_index": 1, "target": "我这个室友", "argument": "心理是有一定问题的", "label": "non-hate", "binary_label": 0}
+{"id": 6098, "quad_index": 0, "target": "大丈夫", "argument": "能屈能伸呐🐶", "label": "non-hate", "binary_label": 0}
+{"id": 6331, "quad_index": 0, "target": "我作为一位女生", "argument": "觉得赞同", "label": "non-hate", "binary_label": 0}
+{"id": 3047, "quad_index": 0, "target": "女权吧", "argument": "太极端了", "label": "Sexism", "binary_label": 1}
+{"id": 1546, "quad_index": 1, "target": "她们", "argument": "过街老鼠", "label": "Sexism", "binary_label": 1}
+{"id": 6906, "quad_index": 0, "target": "河南人", "argument": "一回家就有人问我有没有被河南人坑", "label": "Region", "binary_label": 1}
+{"id": 6361, "quad_index": 0, "target": "江苏人", "argument": "出省也就去上海", "label": "Region", "binary_label": 1}
+{"id": 7702, "quad_index": 0, "target": "她", "argument": "没被宰杀，没被打残", "label": "non-hate", "binary_label": 0}
+{"id": 370, "quad_index": 0, "target": "同性恋", "argument": "歧视", "label": "LGBTQ", "binary_label": 1}
+{"id": 255, "quad_index": 0, "target": "普信男", "argument": "还可以一不危害社会，还能自强不息", "label": "Sexism", "binary_label": 1}
+{"id": 4394, "quad_index": 0, "target": "你", "argument": "功能最全", "label": "non-hate", "binary_label": 0}
+{"id": 3273, "quad_index": 0, "target": "这些g", "argument": "有病", "label": "LGBTQ", "binary_label": 1}
+{"id": 2130, "quad_index": 0, "target": "自己", "argument": "喜欢黑的自己也那么打扮嘛", "label": "non-hate", "binary_label": 0}
+{"id": 4066, "quad_index": 0, "target": "答主", "argument": "那人有没骚扰他", "label": "non-hate", "binary_label": 0}
+{"id": 5091, "quad_index": 0, "target": "黑人", "argument": "被歧视，生的孩子一辈子也会被歧视", "label": "Racism", "binary_label": 1}
+{"id": 6370, "quad_index": 0, "target": "黑人模特图片的衣服", "argument": "一律不会买", "label": "Racism", "binary_label": 1}
+{"id": 3838, "quad_index": 0, "target": "少部分的同性恋", "argument": "不变态", "label": "LGBTQ", "binary_label": 1}
+{"id": 5657, "quad_index": 0, "target": "异性", "argument": "生理差异争吵多", "label": "non-hate", "binary_label": 0}
+{"id": 7954, "quad_index": 0, "target": "猪溜溜", "argument": "讲不赢就拉黑然后自己编故事", "label": "non-hate", "binary_label": 0}
+{"id": 1750, "quad_index": 0, "target": "NULL", "argument": "和国女半斤八两", "label": "Sexism", "binary_label": 1}
+{"id": 6294, "quad_index": 0, "target": "人", "argument": "和低等动物不一样", "label": "non-hate", "binary_label": 0}
+{"id": 5979, "quad_index": 0, "target": "我", "argument": "江苏人", "label": "non-hate", "binary_label": 0}
+{"id": 204, "quad_index": 0, "target": "NULL", "argument": "嫁给他，就跟他回非洲啊", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 7269, "quad_index": 2, "target": "你们这群人", "argument": "但愿未来遇到比你更强的人你不会被打死", "label": "LGBTQ", "binary_label": 1}
+{"id": 218, "quad_index": 0, "target": "上海人", "argument": "笑而不语", "label": "non-hate", "binary_label": 0}
+{"id": 7025, "quad_index": 0, "target": "黑辽", "argument": "一起黑吉林", "label": "Region", "binary_label": 1}
+{"id": 7489, "quad_index": 0, "target": "恶意传播性病和艾滋的", "argument": "少数", "label": "non-hate", "binary_label": 0}
+{"id": 2675, "quad_index": 0, "target": "默", "argument": "不嫖是弄完不给钱", "label": "Racism", "binary_label": 1}
+{"id": 7686, "quad_index": 0, "target": "你", "argument": "一个无知且无畏的复读机", "label": "non-hate", "binary_label": 0}
+{"id": 3649, "quad_index": 0, "target": "非洲人", "argument": "根本没有办法改变国家民族，让大部分人生活的更好", "label": "Racism", "binary_label": 1}
+{"id": 3092, "quad_index": 0, "target": "你", "argument": "可以申请吧主", "label": "non-hate", "binary_label": 0}
+{"id": 1497, "quad_index": 0, "target": "这个", "argument": "假的", "label": "non-hate", "binary_label": 0}
+{"id": 1226, "quad_index": 0, "target": "白腩", "argument": "普遍30岁左右就萎掉了", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 5354, "quad_index": 0, "target": "厉害点的女的", "argument": "能秒杀百分之多少多少的男性", "label": "Sexism", "binary_label": 1}
+{"id": 4039, "quad_index": 0, "target": "你", "argument": "不妨说得更明白一点", "label": "non-hate", "binary_label": 0}
+{"id": 1385, "quad_index": 0, "target": "上海", "argument": "大概是吴越50%，江淮25%，南方其他20%，北方5%", "label": "non-hate", "binary_label": 0}
+{"id": 7342, "quad_index": 0, "target": "非洲", "argument": "不是天堂", "label": "non-hate", "binary_label": 0}
+{"id": 4706, "quad_index": 0, "target": "上海人", "argument": "自己争取来的", "label": "non-hate", "binary_label": 0}
+{"id": 7014, "quad_index": 0, "target": "对女性共情", "argument": "就是对男性的pua", "label": "Sexism", "binary_label": 1}
+{"id": 6240, "quad_index": 0, "target": "同性恋", "argument": "不喜欢同性恋就要被骂", "label": "LGBTQ", "binary_label": 1}
+{"id": 3897, "quad_index": 0, "target": "小姐姐", "argument": "评价相当精准", "label": "non-hate", "binary_label": 0}
+{"id": 4929, "quad_index": 0, "target": "绿绿", "argument": "不也就是骂骂别人吃猪肉而已嘛，打不了也就是砍几刀", "label": "others", "binary_label": 1}
+{"id": 5255, "quad_index": 0, "target": "歧视上海人", "argument": "不对", "label": "non-hate", "binary_label": 0}
+{"id": 1927, "quad_index": 1, "target": "你", "argument": "别去接盘就行了", "label": "Sexism", "binary_label": 1}
+{"id": 6257, "quad_index": 0, "target": "过失杀人", "argument": "最好死刑立即执行", "label": "non-hate", "binary_label": 0}
+{"id": 5170, "quad_index": 0, "target": "畸形的人", "argument": "只有配上畸形的爱才会觉得正常", "label": "LGBTQ", "binary_label": 1}
+{"id": 3720, "quad_index": 0, "target": "黑人", "argument": "女性确实会被黑人伤害", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 875, "quad_index": 0, "target": "你们", "argument": "到底有多大的仇恨？", "label": "non-hate", "binary_label": 0}
+{"id": 3602, "quad_index": 0, "target": "答主", "argument": "为啥不回你呢", "label": "non-hate", "binary_label": 0}
+{"id": 6934, "quad_index": 0, "target": "大猩猩", "argument": "杂食动物", "label": "non-hate", "binary_label": 0}
+{"id": 953, "quad_index": 0, "target": "男同", "argument": "我确实是歧视男同", "label": "LGBTQ", "binary_label": 1}
+{"id": 7211, "quad_index": 0, "target": "大佬", "argument": "鉴定完毕", "label": "non-hate", "binary_label": 0}
+{"id": 6033, "quad_index": 0, "target": "国女", "argument": "来了😆", "label": "Sexism", "binary_label": 1}
+{"id": 7607, "quad_index": 0, "target": "基佬", "argument": "基佬纪实", "label": "LGBTQ", "binary_label": 1}
+{"id": 6854, "quad_index": 1, "target": "txl", "argument": "厌恶", "label": "LGBTQ", "binary_label": 1}
+{"id": 7695, "quad_index": 0, "target": "你", "argument": "接不接受真的毫无价值", "label": "non-hate", "binary_label": 0}
+{"id": 1484, "quad_index": 0, "target": "理客中", "argument": "投降派", "label": "others", "binary_label": 1}
+{"id": 93, "quad_index": 0, "target": "小棒子", "argument": "这点得学着人家小棒子", "label": "Region", "binary_label": 1}
+{"id": 1284, "quad_index": 0, "target": "虫", "argument": "国际除虫人人有责", "label": "Racism", "binary_label": 1}
+{"id": 365, "quad_index": 0, "target": "你和吧主", "argument": "在互怼", "label": "non-hate", "binary_label": 0}
+{"id": 2606, "quad_index": 1, "target": "白男", "argument": "对黄女审美观就是猎奇", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 5010, "quad_index": 1, "target": "乱交得病的骚扰直男的", "argument": "占比很高", "label": "LGBTQ, others", "binary_label": 1}
+{"id": 2228, "quad_index": 0, "target": "湖南人", "argument": "你们讨厌我们", "label": "Region", "binary_label": 1}
+{"id": 2037, "quad_index": 0, "target": "河南人", "argument": "心塞😭", "label": "non-hate", "binary_label": 0}
+{"id": 7249, "quad_index": 2, "target": "田园女权", "argument": "灭国之道", "label": "Sexism", "binary_label": 1}
+{"id": 94, "quad_index": 0, "target": "河南和东北", "argument": "“中国特色地域歧视”", "label": "Region", "binary_label": 1}
+{"id": 597, "quad_index": 1, "target": "想找黑人的人", "argument": "好好想想吧", "label": "Racism", "binary_label": 1}
+{"id": 4179, "quad_index": 0, "target": "小孩", "argument": "生个小孩还是黑色的", "label": "Racism", "binary_label": 1}
+{"id": 1703, "quad_index": 0, "target": "你", "argument": "觉醒了", "label": "non-hate", "binary_label": 0}
+{"id": 5208, "quad_index": 0, "target": "同性取向", "argument": "谁会自找麻烦让企业文化和同事关系来排挤呢😓", "label": "LGBTQ", "binary_label": 1}
+{"id": 3695, "quad_index": 0, "target": "你", "argument": "去搂好你的黑北鼻别来国内打拳😆", "label": "Sexism, Racism", "binary_label": 1}
+{"id": 5130, "quad_index": 1, "target": "美颜救不了的女人", "argument": "可以爬", "label": "Sexism", "binary_label": 1}
+{"id": 386, "quad_index": 0, "target": "外国", "argument": "政治正确", "label": "non-hate", "binary_label": 0}
